@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -2012,6 +2012,15 @@
           "washi_platypus_2.png",
           "washi_platypus_3.png",
           "washi_platypus_4.png"
+        ]
+      },
+      {
+        "id": "scrapbookKit",
+        "name": "Scrapbook Kit",
+        "subfolder": "stickers/ScrapbookKit",
+        "gridStyle": "square",
+        "files": [
+          "scrapbook_kit.png"
         ]
       }
     ]
