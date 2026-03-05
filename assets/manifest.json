@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -1969,49 +1969,15 @@
         ]
       },
       {
-        "id": "paperclips",
-        "name": "Paperclips",
-        "subfolder": "stickers/Paperclips",
-        "gridStyle": "square",
-        "files": [
-          "paperclip_1.png",
-          "paperclip_10.png",
-          "paperclip_2.png",
-          "paperclip_3.png",
-          "paperclip_4.png",
-          "paperclip_5.png",
-          "paperclip_6.png",
-          "paperclip_7.png",
-          "paperclip_8.png",
-          "paperclip_9.png"
-        ]
-      },
-      {
         "id": "washiAnimal",
-        "name": "Washi Animal",
+        "name": "Animal Washi",
         "subfolder": "stickers/WashiAnimal",
         "gridStyle": "washi",
         "files": [
-          "washi_fox_1.png",
-          "washi_fox_2.png",
-          "washi_fox_3.png",
-          "washi_fox_4.png",
-          "washi_koala_1.png",
-          "washi_koala_2.png",
-          "washi_koala_3.png",
-          "washi_koala_4.png",
-          "washi_monkey_1.png",
-          "washi_monkey_2.png",
-          "washi_monkey_3.png",
-          "washi_monkey_4.png",
-          "washi_panda_1.png",
-          "washi_panda_2.png",
-          "washi_panda_3.png",
-          "washi_panda_4.png",
-          "washi_platypus_1.png",
-          "washi_platypus_2.png",
-          "washi_platypus_3.png",
-          "washi_platypus_4.png"
+          "washi_monkey_koala.png",
+          "washi_otter.png",
+          "washi_panda.png",
+          "washi_platypus.png"
         ]
       },
       {
@@ -2020,7 +1986,39 @@
         "subfolder": "stickers/ScrapbookKit",
         "gridStyle": "square",
         "files": [
-          "scrapbook_kit.png"
+          "badge_ok.png",
+          "binder_clip_large.png",
+          "binder_clip_small.png",
+          "blackboard.png",
+          "film_strip.png",
+          "frame_cork.png",
+          "frame_kraft.png",
+          "heart_red.png",
+          "notepad_lined.png",
+          "notepad_strip.png",
+          "notepad_taped.png",
+          "notepad_torn.png",
+          "paper_stacked.png",
+          "paper_white.png",
+          "paper_yellow.png",
+          "pencil.png",
+          "polaroid.png",
+          "pushpin_red.png",
+          "scissors_pencil.png",
+          "stamp_important.png",
+          "stamp_special.png",
+          "sun.png",
+          "tape_blue_check.png",
+          "tape_gold.png",
+          "tape_kraft.png",
+          "tape_pink_polka.png",
+          "tape_pink_polka2.png",
+          "tape_roll.png",
+          "torn_paper_kraft.png",
+          "torn_paper_strip.png",
+          "torn_paper_white.png",
+          "twine_bow.png",
+          "twine_roll.png"
         ]
       }
     ]
