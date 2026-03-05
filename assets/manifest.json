@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -1906,6 +1906,113 @@
           "quokka_pattern.png": "71af4c1f421924a467f80ad3dff29082d849d052aeddbd454cebff5c02c8e752",
           "turtle_pattern.png": "a378fbad23a09fadcac848b11f9d4ea54543b78010f757dff9111271cf552f58"
         }
+      },
+      {
+        "id": "tornPaper",
+        "name": "Torn Paper",
+        "subfolder": "stickers/TornPaper",
+        "gridStyle": "washi",
+        "files": [
+          "torn_paper_1.png",
+          "torn_paper_10.png",
+          "torn_paper_11.png",
+          "torn_paper_12.png",
+          "torn_paper_2.png",
+          "torn_paper_3.png",
+          "torn_paper_4.png",
+          "torn_paper_5.png",
+          "torn_paper_6.png",
+          "torn_paper_7.png",
+          "torn_paper_8.png",
+          "torn_paper_9.png"
+        ]
+      },
+      {
+        "id": "polaroidFrames",
+        "name": "Polaroid Frames",
+        "subfolder": "stickers/PolaroidFrames",
+        "gridStyle": "tall",
+        "files": [
+          "polaroid_frame_1.png",
+          "polaroid_frame_10.png",
+          "polaroid_frame_2.png",
+          "polaroid_frame_3.png",
+          "polaroid_frame_4.png",
+          "polaroid_frame_5.png",
+          "polaroid_frame_6.png",
+          "polaroid_frame_7.png",
+          "polaroid_frame_8.png",
+          "polaroid_frame_9.png"
+        ]
+      },
+      {
+        "id": "doodles",
+        "name": "Doodles",
+        "subfolder": "stickers/Doodles",
+        "gridStyle": "square",
+        "files": [
+          "doodle_1.png",
+          "doodle_10.png",
+          "doodle_11.png",
+          "doodle_12.png",
+          "doodle_13.png",
+          "doodle_14.png",
+          "doodle_15.png",
+          "doodle_2.png",
+          "doodle_3.png",
+          "doodle_4.png",
+          "doodle_5.png",
+          "doodle_6.png",
+          "doodle_7.png",
+          "doodle_8.png",
+          "doodle_9.png"
+        ]
+      },
+      {
+        "id": "paperclips",
+        "name": "Paperclips",
+        "subfolder": "stickers/Paperclips",
+        "gridStyle": "square",
+        "files": [
+          "paperclip_1.png",
+          "paperclip_10.png",
+          "paperclip_2.png",
+          "paperclip_3.png",
+          "paperclip_4.png",
+          "paperclip_5.png",
+          "paperclip_6.png",
+          "paperclip_7.png",
+          "paperclip_8.png",
+          "paperclip_9.png"
+        ]
+      },
+      {
+        "id": "washiAnimal",
+        "name": "Washi Animal",
+        "subfolder": "stickers/WashiAnimal",
+        "gridStyle": "washi",
+        "files": [
+          "washi_fox_1.png",
+          "washi_fox_2.png",
+          "washi_fox_3.png",
+          "washi_fox_4.png",
+          "washi_koala_1.png",
+          "washi_koala_2.png",
+          "washi_koala_3.png",
+          "washi_koala_4.png",
+          "washi_monkey_1.png",
+          "washi_monkey_2.png",
+          "washi_monkey_3.png",
+          "washi_monkey_4.png",
+          "washi_panda_1.png",
+          "washi_panda_2.png",
+          "washi_panda_3.png",
+          "washi_panda_4.png",
+          "washi_platypus_1.png",
+          "washi_platypus_2.png",
+          "washi_platypus_3.png",
+          "washi_platypus_4.png"
+        ]
       }
     ]
   },
@@ -1945,6 +2052,12 @@
         "file": "textures/cork.png",
         "previewColor": "#D1AD78",
         "sha256": "6199dd4eea8d5d3782231acb6bb53fbcac417da495c44af1fc3ac38edd389a0e"
+      },
+      {
+        "id": "scrapbook_kit",
+        "name": "Scrapbook Kit",
+        "file": "textures/scrapbook_kit.png",
+        "previewColor": "#F5EDD6"
       }
     ],
     "stickerTextures": [
