@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -2094,6 +2094,7 @@
         "gridStyle": "square",
         "files": [
           "paperclip_1.png",
+          "paperclip_10.png",
           "paperclip_2.png",
           "paperclip_3.png",
           "paperclip_4.png",
@@ -2101,8 +2102,93 @@
           "paperclip_6.png",
           "paperclip_7.png",
           "paperclip_8.png",
-          "paperclip_9.png",
-          "paperclip_10.png"
+          "paperclip_9.png"
+        ],
+        "hashes": null
+      },
+      {
+        "id": "cartoonAnimals",
+        "name": "Cartoon Animals",
+        "subfolder": "stickers/CartoonAnimals",
+        "gridStyle": "square",
+        "files": [
+          "animal_bear_0.png",
+          "animal_bear_1.png",
+          "animal_bear_2.png",
+          "animal_bunny_0.png",
+          "animal_bunny_1.png",
+          "animal_bunny_2.png",
+          "animal_capybara_0.png",
+          "animal_capybara_1.png",
+          "animal_capybara_2.png",
+          "animal_cat_0.png",
+          "animal_cat_1.png",
+          "animal_cat_2.png",
+          "animal_dog_0.png",
+          "animal_dog_1.png",
+          "animal_dog_2.png",
+          "animal_dolphin_0.png",
+          "animal_dolphin_1.png",
+          "animal_dolphin_2.png",
+          "animal_duck_0.png",
+          "animal_duck_1.png",
+          "animal_duck_2.png",
+          "animal_fox_0.png",
+          "animal_fox_1.png",
+          "animal_fox_2.png",
+          "animal_frog_0.png",
+          "animal_frog_1.png",
+          "animal_frog_2.png",
+          "animal_hamster_0.png",
+          "animal_hamster_1.png",
+          "animal_hamster_2.png",
+          "animal_kitten_0.png",
+          "animal_kitten_1.png",
+          "animal_kitten_2.png",
+          "animal_koala_0.png",
+          "animal_koala_1.png",
+          "animal_koala_2.png",
+          "animal_otter_0.png",
+          "animal_otter_1.png",
+          "animal_otter_2.png",
+          "animal_owl_0.png",
+          "animal_owl_1.png",
+          "animal_owl_2.png",
+          "animal_panda_0.png",
+          "animal_panda_1.png",
+          "animal_panda_2.png",
+          "animal_penguin_0.png",
+          "animal_penguin_1.png",
+          "animal_penguin_2.png",
+          "animal_platypus_0.png",
+          "animal_platypus_1.png",
+          "animal_platypus_2.png",
+          "animal_seal_0.png",
+          "animal_seal_1.png",
+          "animal_seal_2.png",
+          "animal_turtle_0.png",
+          "animal_turtle_1.png",
+          "animal_turtle_2.png",
+          "animal_whale_0.png",
+          "animal_whale_1.png",
+          "animal_whale_2.png"
+        ],
+        "hashes": null
+      },
+      {
+        "id": "frames",
+        "name": "Frames",
+        "subfolder": "stickers/Frames",
+        "gridStyle": "tall",
+        "files": [
+          "frame_1.png",
+          "frame_1_v2.png",
+          "frame_2.png",
+          "frame_2_v2.png",
+          "frame_3.png",
+          "frame_3_v2.png",
+          "frame_4.png",
+          "frame_4_v2.png"
         ],
         "hashes": null
       }
@@ -2219,6 +2305,90 @@
         "name": "Crumpled White",
         "file": "textures/paper_crumpled_white.png",
         "previewColor": "#F5F5F5",
+        "sha256": null
+      },
+      {
+        "id": "bg_polka_0",
+        "name": "Polka 1",
+        "file": "textures/background_polka_0.png",
+        "previewColor": "#F7B8C8",
+        "sha256": null
+      },
+      {
+        "id": "bg_polka_1",
+        "name": "Polka 2",
+        "file": "textures/background_polka_1.png",
+        "previewColor": "#B8D4F7",
+        "sha256": null
+      },
+      {
+        "id": "bg_polka_2",
+        "name": "Polka 3",
+        "file": "textures/background_polka_2.png",
+        "previewColor": "#B8F7C8",
+        "sha256": null
+      },
+      {
+        "id": "bg_polka_3",
+        "name": "Polka 4",
+        "file": "textures/background_polka_3.png",
+        "previewColor": "#F7E8B8",
+        "sha256": null
+      },
+      {
+        "id": "bg_polka_4",
+        "name": "Polka 5",
+        "file": "textures/background_polka_4.png",
+        "previewColor": "#E8B8F7",
+        "sha256": null
+      },
+      {
+        "id": "bg_polka_5",
+        "name": "Polka 6",
+        "file": "textures/background_polka_5.png",
+        "previewColor": "#F7F7B8",
+        "sha256": null
+      },
+      {
+        "id": "bg_stripe_0",
+        "name": "Stripe 1",
+        "file": "textures/background_stripe_0.png",
+        "previewColor": "#E8D4BC",
+        "sha256": null
+      },
+      {
+        "id": "bg_stripe_1",
+        "name": "Stripe 2",
+        "file": "textures/background_stripe_1.png",
+        "previewColor": "#BCD4E8",
+        "sha256": null
+      },
+      {
+        "id": "bg_stripe_2",
+        "name": "Stripe 3",
+        "file": "textures/background_stripe_2.png",
+        "previewColor": "#BCE8D4",
+        "sha256": null
+      },
+      {
+        "id": "bg_stripe_3",
+        "name": "Stripe 4",
+        "file": "textures/background_stripe_3.png",
+        "previewColor": "#E8BCd4",
+        "sha256": null
+      },
+      {
+        "id": "bg_stripe_4",
+        "name": "Stripe 5",
+        "file": "textures/background_stripe_4.png",
+        "previewColor": "#D4E8BC",
+        "sha256": null
+      },
+      {
+        "id": "bg_stripe_5",
+        "name": "Stripe 6",
+        "file": "textures/background_stripe_5.png",
+        "previewColor": "#D4BCE8",
         "sha256": null
       }
     ],
