@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -1978,14 +1978,34 @@
           "washi_cat.png",
           "washi_duck.png",
           "washi_fox.png",
+          "washi_fox_1.png",
+          "washi_fox_2.png",
+          "washi_fox_3.png",
+          "washi_fox_4.png",
           "washi_frog.png",
           "washi_kitten.png",
           "washi_koala.png",
+          "washi_koala_1.png",
+          "washi_koala_2.png",
+          "washi_koala_3.png",
+          "washi_koala_4.png",
+          "washi_monkey_1.png",
+          "washi_monkey_2.png",
+          "washi_monkey_3.png",
+          "washi_monkey_4.png",
           "washi_monkey_koala.png",
           "washi_otter.png",
           "washi_panda.png",
+          "washi_panda_1.png",
+          "washi_panda_2.png",
+          "washi_panda_3.png",
+          "washi_panda_4.png",
           "washi_penguin.png",
-          "washi_platypus.png"
+          "washi_platypus.png",
+          "washi_platypus_1.png",
+          "washi_platypus_2.png",
+          "washi_platypus_3.png",
+          "washi_platypus_4.png"
         ]
       },
       {
@@ -2064,6 +2084,25 @@
           "clip_7.png",
           "clip_8.png",
           "clip_9.png"
+        ],
+        "hashes": null
+      },
+      {
+        "id": "paperclips",
+        "name": "Paperclips",
+        "subfolder": "stickers/Paperclips",
+        "gridStyle": "square",
+        "files": [
+          "paperclip_1.png",
+          "paperclip_2.png",
+          "paperclip_3.png",
+          "paperclip_4.png",
+          "paperclip_5.png",
+          "paperclip_6.png",
+          "paperclip_7.png",
+          "paperclip_8.png",
+          "paperclip_9.png",
+          "paperclip_10.png"
         ],
         "hashes": null
       }
