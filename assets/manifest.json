@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -2128,6 +2128,11 @@
           "cream_open_empty.png",
           "cream_open_sm.png",
           "cream_open_xs.png",
+          "envelope_closed_0.png",
+          "envelope_closed_1.png",
+          "envelope_closed_2.png",
+          "envelope_closed_3.png",
+          "envelope_closed_4.png",
           "kraft_closed.png",
           "kraft_open.png",
           "lavender_closed.png",
@@ -2160,7 +2165,12 @@
           "pink_open.png": "94473b63f167a2014a5689229dea890fa6b12680251c45d2cfe627449cb68b40",
           "pink_open_empty.png": "4802e2012607b7dfa963ec9d16b6719ad44c28ea0bfdf2763e9a4013820c2fba",
           "white_closed.png": "f42ffab4fbf5072f7cacc463562be7573520902cceb4c30aec00aaec640151c7",
-          "white_open.png": "211cee0e918bebb8a97110b9d0894b37cc051958921178354dce8bc89d8fbf4e"
+          "white_open.png": "211cee0e918bebb8a97110b9d0894b37cc051958921178354dce8bc89d8fbf4e",
+          "envelope_closed_0.png": "b0dcf419c772d130877e2f4e255a787b8250d9385f71dee144d7a22356c3b025",
+          "envelope_closed_1.png": "9727710e9bfc03f0fe4c757e91e9576cc6e8fb53d942f7a827b2ae935d562ab6",
+          "envelope_closed_2.png": "1bbb381857a0fe552888557251dc8d7d10c7ebfa37f9e5696e2f94660b60af10",
+          "envelope_closed_3.png": "7e441482b213d960e17c47c4e940974be21fd1af5bde81a440871b4522942bb1",
+          "envelope_closed_4.png": "1206dc47e7b15570ad3e351070279671f5aedd3923157313b64137f92ad47e1b"
         }
       },
       {
@@ -2697,11 +2707,11 @@
           "bow_9.png"
         ],
         "hashes": {
-          "bow_0.png": "24321f645006555156c70cf2ce117dec9b41279384213c961975bcfa593c6385",
-          "bow_1.png": "34f8e63e0f62213c7c12ae8c9bc07d131f1da9dcf55b3db4b5a55cffb368fa7b",
-          "bow_2.png": "354cff1ce2b51a662e92b0fdf05c7d9abe5ea3b350d11452daba4573556494b2",
-          "bow_3.png": "333cdc97591e51beb65194857619cea52a65042415e7c235d2364cad25d22bf9",
-          "bow_4.png": "354cff1ce2b51a662e92b0fdf05c7d9abe5ea3b350d11452daba4573556494b2",
+          "bow_0.png": "5d68ef6366a9d1682fb3530932a75f4b5c6499a4054bd22ac6ad12ed70b6c1bb",
+          "bow_1.png": "86c9117d5262938ac4783459d4ada360f884836b1a17411009c5e274ba2b38a9",
+          "bow_2.png": "b704ba1e8bbe1e09e8c48ae95f076b4ac7c93db83a19ac9ba051bd01f174ebf4",
+          "bow_3.png": "5d68ef6366a9d1682fb3530932a75f4b5c6499a4054bd22ac6ad12ed70b6c1bb",
+          "bow_4.png": "3395fb1d371b3fd986d1db3b69ddd1854ca77d9e82c7461b63211f6990b9cf69",
           "bow_5.png": "5d68ef6366a9d1682fb3530932a75f4b5c6499a4054bd22ac6ad12ed70b6c1bb",
           "bow_6.png": "5d68ef6366a9d1682fb3530932a75f4b5c6499a4054bd22ac6ad12ed70b6c1bb",
           "bow_7.png": "3395fb1d371b3fd986d1db3b69ddd1854ca77d9e82c7461b63211f6990b9cf69",
@@ -2727,11 +2737,11 @@
           "clip_9.png"
         ],
         "hashes": {
-          "clip_0.png": "3c996eb131005ce8e6d3291a025e66fbe8378d8083fda6a01e32f1bbd3efbe71",
-          "clip_1.png": "3c996eb131005ce8e6d3291a025e66fbe8378d8083fda6a01e32f1bbd3efbe71",
-          "clip_2.png": "3c996eb131005ce8e6d3291a025e66fbe8378d8083fda6a01e32f1bbd3efbe71",
-          "clip_3.png": "3c996eb131005ce8e6d3291a025e66fbe8378d8083fda6a01e32f1bbd3efbe71",
-          "clip_4.png": "3c996eb131005ce8e6d3291a025e66fbe8378d8083fda6a01e32f1bbd3efbe71",
+          "clip_0.png": "8f221cdd4859f7bd8000383c3575dca04838e551779f381a47c8b8bfc77cc6d3",
+          "clip_1.png": "8f221cdd4859f7bd8000383c3575dca04838e551779f381a47c8b8bfc77cc6d3",
+          "clip_2.png": "8f221cdd4859f7bd8000383c3575dca04838e551779f381a47c8b8bfc77cc6d3",
+          "clip_3.png": "8f221cdd4859f7bd8000383c3575dca04838e551779f381a47c8b8bfc77cc6d3",
+          "clip_4.png": "8f221cdd4859f7bd8000383c3575dca04838e551779f381a47c8b8bfc77cc6d3",
           "clip_5.png": "8f221cdd4859f7bd8000383c3575dca04838e551779f381a47c8b8bfc77cc6d3",
           "clip_6.png": "8f221cdd4859f7bd8000383c3575dca04838e551779f381a47c8b8bfc77cc6d3",
           "clip_7.png": "8f221cdd4859f7bd8000383c3575dca04838e551779f381a47c8b8bfc77cc6d3",
