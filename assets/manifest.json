@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -1974,9 +1974,17 @@
         "subfolder": "stickers/WashiAnimal",
         "gridStyle": "washi",
         "files": [
+          "washi_bear.png",
+          "washi_cat.png",
+          "washi_duck.png",
+          "washi_fox.png",
+          "washi_frog.png",
+          "washi_kitten.png",
+          "washi_koala.png",
           "washi_monkey_koala.png",
           "washi_otter.png",
           "washi_panda.png",
+          "washi_penguin.png",
           "washi_platypus.png"
         ]
       },
@@ -2020,6 +2028,44 @@
           "twine_bow.png",
           "twine_roll.png"
         ]
+      },
+      {
+        "id": "bows",
+        "name": "Bows",
+        "subfolder": "stickers/Bows",
+        "gridStyle": "square",
+        "files": [
+          "bow_0.png",
+          "bow_1.png",
+          "bow_2.png",
+          "bow_3.png",
+          "bow_4.png",
+          "bow_5.png",
+          "bow_6.png",
+          "bow_7.png",
+          "bow_8.png",
+          "bow_9.png"
+        ],
+        "hashes": null
+      },
+      {
+        "id": "clips",
+        "name": "Clips",
+        "subfolder": "stickers/Clips",
+        "gridStyle": "square",
+        "files": [
+          "clip_0.png",
+          "clip_1.png",
+          "clip_2.png",
+          "clip_3.png",
+          "clip_4.png",
+          "clip_5.png",
+          "clip_6.png",
+          "clip_7.png",
+          "clip_8.png",
+          "clip_9.png"
+        ],
+        "hashes": null
       }
     ]
   },
@@ -2065,6 +2111,76 @@
         "name": "Scrapbook Kit",
         "file": "textures/scrapbook_kit.png",
         "previewColor": "#F5EDD6"
+      },
+      {
+        "id": "gold_foil",
+        "name": "Gold Foil",
+        "file": "textures/gold_foil.png",
+        "previewColor": "#D4B44A",
+        "sha256": null
+      },
+      {
+        "id": "rose_gold_foil",
+        "name": "Rose Gold",
+        "file": "textures/rose_gold_foil.png",
+        "previewColor": "#C9956C",
+        "sha256": null
+      },
+      {
+        "id": "silver_foil",
+        "name": "Silver Foil",
+        "file": "textures/silver_foil.png",
+        "previewColor": "#B0B0B8",
+        "sha256": null
+      },
+      {
+        "id": "kraft_paper_dark",
+        "name": "Dark Kraft",
+        "file": "textures/kraft_paper_dark.png",
+        "previewColor": "#8B6B4A",
+        "sha256": null
+      },
+      {
+        "id": "kraft_paper_light",
+        "name": "Light Kraft",
+        "file": "textures/kraft_paper_light.png",
+        "previewColor": "#C4A882",
+        "sha256": null
+      },
+      {
+        "id": "kraft_paper_vintage",
+        "name": "Vintage Kraft",
+        "file": "textures/kraft_paper_vintage.png",
+        "previewColor": "#B8955E",
+        "sha256": null
+      },
+      {
+        "id": "paper_crumpled_blue",
+        "name": "Crumpled Blue",
+        "file": "textures/paper_crumpled_blue.png",
+        "previewColor": "#99B8D0",
+        "sha256": null
+      },
+      {
+        "id": "paper_crumpled_cream",
+        "name": "Crumpled Cream",
+        "file": "textures/paper_crumpled_cream.png",
+        "previewColor": "#F0E6D0",
+        "sha256": null
+      },
+      {
+        "id": "paper_crumpled_pink",
+        "name": "Crumpled Pink",
+        "file": "textures/paper_crumpled_pink.png",
+        "previewColor": "#E8B4C0",
+        "sha256": null
+      },
+      {
+        "id": "paper_crumpled_white",
+        "name": "Crumpled White",
+        "file": "textures/paper_crumpled_white.png",
+        "previewColor": "#F5F5F5",
+        "sha256": null
       }
     ],
     "stickerTextures": [
@@ -2172,6 +2288,76 @@
         "file": "stickers/AnimalPatterns/giraffe_pattern.png",
         "previewColor": "#F2E6C7",
         "sha256": "dbedd748e4c0ae451d3b05c4bec9ac46b8245c73e6db016c15c9fbf9e2c6fc25"
+      },
+      {
+        "id": "aurora_green",
+        "name": "Aurora Green",
+        "file": "textures/aurora_green.png",
+        "previewColor": "#0A3020",
+        "sha256": null
+      },
+      {
+        "id": "aurora_purple",
+        "name": "Aurora Purple",
+        "file": "textures/aurora_purple.png",
+        "previewColor": "#1A0A30",
+        "sha256": null
+      },
+      {
+        "id": "constellations",
+        "name": "Constellations",
+        "file": "textures/constellations_map.png",
+        "previewColor": "#050520",
+        "sha256": null
+      },
+      {
+        "id": "galaxy_0",
+        "name": "Galaxy 1",
+        "file": "textures/galaxy_0.png",
+        "previewColor": "#100820",
+        "sha256": null
+      },
+      {
+        "id": "galaxy_1",
+        "name": "Galaxy 2",
+        "file": "textures/galaxy_1.png",
+        "previewColor": "#080F22",
+        "sha256": null
+      },
+      {
+        "id": "galaxy_2",
+        "name": "Galaxy 3",
+        "file": "textures/galaxy_2.png",
+        "previewColor": "#0A0A20",
+        "sha256": null
+      },
+      {
+        "id": "bg_bear",
+        "name": "Bear Land",
+        "file": "textures/animal_background_bear.png",
+        "previewColor": "#8B6B4A",
+        "sha256": null
+      },
+      {
+        "id": "bg_cat",
+        "name": "Cat Garden",
+        "file": "textures/animal_background_cat.png",
+        "previewColor": "#9090A0",
+        "sha256": null
+      },
+      {
+        "id": "bg_frog",
+        "name": "Frog Pond",
+        "file": "textures/animal_background_frog.png",
+        "previewColor": "#4A7A4A",
+        "sha256": null
+      },
+      {
+        "id": "bg_penguin",
+        "name": "Penguin Snow",
+        "file": "textures/animal_background_penguin.png",
+        "previewColor": "#6A8090",
+        "sha256": null
       }
     ]
   }
