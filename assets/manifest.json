@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -2158,6 +2158,7 @@
           "scrapbook_50.png",
           "scrapbook_52.png",
           "scrapbook_53.png",
+          "scrapbook_54.png",
           "scrapbook_6.png",
           "scrapbook_9.png"
         ],
@@ -3080,7 +3081,7 @@
         "name": "Black",
         "file": "textures/black.png",
         "previewColor": "#1A1A1A",
-        "sha256": "06b2ab02f37bc63fcf6270ab54ad391ddb259aa168b67131d2e0ed62a99b3cb3"
+        "sha256": "522c0f75220df419aa7c477e7a1910cf1eb83dbf0b6694699df94838960a76c5"
       },
       {
         "id": "constellations_map",
@@ -3094,7 +3095,7 @@
         "name": "Cork",
         "file": "textures/cork.png",
         "previewColor": "#B8956A",
-        "sha256": "6199dd4eea8d5d3782231acb6bb53fbcac417da495c44af1fc3ac38edd389a0e"
+        "sha256": "d84984e3efb01e05c060eb4984982234e32f2cb34c6c663f5cddc7cd84339729"
       },
       {
         "id": "galaxy_0",
@@ -3122,14 +3123,14 @@
         "name": "Gold Foil",
         "file": "textures/gold_foil.png",
         "previewColor": "#D4B54A",
-        "sha256": "4cb52da444722de0c3ba3055bd76b32b04bc96678374246e0c3e8af24bdef321"
+        "sha256": "66b40ac17df594f8b74fbc1a14a41428505ab00aa8cca0dc5885c9231677491e"
       },
       {
         "id": "kraft",
         "name": "Kraft",
         "file": "textures/kraft.png",
         "previewColor": "#C4A882",
-        "sha256": "c2c9f809a6219c7660a04420d4080870f6bc49c71881abcd590047d5bd01e912"
+        "sha256": "8580f54d3b6495795af5c99afc647e76d3b05b27b185f4debce64a6bd3fc09de"
       },
       {
         "id": "kraft_paper_dark",
@@ -3157,14 +3158,14 @@
         "name": "Newsprint",
         "file": "textures/newsprint.png",
         "previewColor": "#E8E0D0",
-        "sha256": "c8e4811e50ceecb416e464bf131cf3489182bae4b30d4b5c55656720e0dc7f53"
+        "sha256": "58b194a78c115ec593ac1c6c5cc6bc3163ca5480088e6ed11aaa408e193cc20c"
       },
       {
         "id": "paper_crumpled_blue",
         "name": "Crumpled Blue",
         "file": "textures/paper_crumpled_blue.png",
         "previewColor": "#B0C4D8",
-        "sha256": "87288c3f11fcd9f1cfcd4e02fdbe7b49ef360c0a4b9cc33ae8a1c91d5ea5858e"
+        "sha256": "fa336fc22854b8f899ca2e912c7694402b2c1094de6109ce98456a1a5a4d1599"
       },
       {
         "id": "paper_crumpled_cream",
@@ -3178,14 +3179,14 @@
         "name": "Crumpled Pink",
         "file": "textures/paper_crumpled_pink.png",
         "previewColor": "#E8C0C8",
-        "sha256": "11531b620d9742146f666dac82039328d84f96971cef8c224bfd75f2dfe32af6"
+        "sha256": "7a79f7d5832141d27cff3fd19c142b18a359db7798699ded72547f7222a54310"
       },
       {
         "id": "paper_crumpled_white",
         "name": "Crumpled White",
         "file": "textures/paper_crumpled_white.png",
         "previewColor": "#F0F0F0",
-        "sha256": "46626e77afc9a69fd50eee7b6c379d130dbc4656711f1efedd3e258a8a724d2c"
+        "sha256": "17751db45268860ca6b002dbab54db95ab4aa2c81996ee7f74e42a75c95c8183"
       },
       {
         "id": "paper_texture_0",
@@ -3332,7 +3333,7 @@
         "name": "Rose Gold",
         "file": "textures/rose_gold_foil.png",
         "previewColor": "#D4A088",
-        "sha256": "0112dee140da08d97ebf3775efce740dabe1e929888982b818053c6c153336ca"
+        "sha256": "394598cc355adf8b1ffbf25336ce1ee233c37e8fd86d1561f9efff96626af584"
       },
       {
         "id": "scrapbook_kit",
@@ -3346,7 +3347,7 @@
         "name": "Silver Foil",
         "file": "textures/silver_foil.png",
         "previewColor": "#C0C0C0",
-        "sha256": "3f449d9c34f29e0019c4e86ac99b3a03bbc37c281486f8540d05cb643585d292"
+        "sha256": "d045068b1c52e6cb36bb7e7f8e8e353afdfb054b47bae5f6ceabefa0389eac78"
       },
       {
         "id": "white",
