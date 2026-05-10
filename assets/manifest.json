@@ -1,5 +1,5 @@
 {
-  "version": 14,
+  "version": 15,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -3057,6 +3057,34 @@
           "crayon_56.png": "423904f949905cdbd352e3a58332f714e76ee91d5f59d279d5806638a626b294",
           "crayon_57.png": "1c738c603ec3d07493e507824e0a5aba40ec24af5def8e0a0a250ad0f884fe0b",
           "crayon_58.png": "e792e8a2139806303cc6f3b79f32c7194b91655a2c4efd7ea72a2640a3fdb7cf"
+        }
+      },
+      {
+        "id": "patches",
+        "name": "Patches",
+        "subfolder": "stickers/Patches",
+        "gridStyle": "square",
+        "files": [
+          "may10_01.png",
+          "may10_02.png",
+          "may10_03.png",
+          "may10_04.png",
+          "may10_05.png",
+          "may10_06.png",
+          "may10_07.png",
+          "may10_08.png",
+          "may10_09.png"
+        ],
+        "hashes": {
+          "may10_01.png": "4375634a610d96b315a2f52740f95c04fd47f4f0b214f83cd1c8de4515a0f6d3",
+          "may10_02.png": "822e5774d2b85723c16b9d2ed9669266f9d62aa2dedb9c441dfecdf738f3459c",
+          "may10_03.png": "11c1bf82f34de239a1058d1add2512d434efa448f41b674933ddd015bb20c679",
+          "may10_04.png": "15a354231776336ab0f8199441d24ade198d1091477d3325c55208acd62827cf",
+          "may10_05.png": "43d48f2dd6d882f4820a3c47a93777e004dcb4f6422aa598c416182197563433",
+          "may10_06.png": "cd616bd2e0804d1aa043e6013b65465f1549a73ca5885570400fa78bebd027fa",
+          "may10_07.png": "5e3287ccbb7db85a7b7ee502f57e7a73c66e492820580401a7f456308cf5cbd3",
+          "may10_08.png": "e69e4d2b16b4fbd2edede89aaf6ec0f3f03ec9f0592aeceb18091d714a9ed678",
+          "may10_09.png": "a6af9fa2d0d588047e95d2a3ad2383b6b0d91511d953e564eb6c6216cea66721"
         }
       }
     ]
