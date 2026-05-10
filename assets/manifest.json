@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -3085,6 +3085,40 @@
           "may10_07.png": "5e3287ccbb7db85a7b7ee502f57e7a73c66e492820580401a7f456308cf5cbd3",
           "may10_08.png": "e69e4d2b16b4fbd2edede89aaf6ec0f3f03ec9f0592aeceb18091d714a9ed678",
           "may10_09.png": "a6af9fa2d0d588047e95d2a3ad2383b6b0d91511d953e564eb6c6216cea66721"
+        }
+      },
+      {
+        "id": "buttons",
+        "name": "Buttons",
+        "subfolder": "stickers/Buttons",
+        "gridStyle": "square",
+        "files": [
+          "button_01.png",
+          "button_02.png",
+          "button_03.png",
+          "button_04.png",
+          "button_05.png",
+          "button_06.png",
+          "button_07.png",
+          "button_08.png",
+          "button_09.png",
+          "button_10.png",
+          "button_11.png",
+          "button_12.png"
+        ],
+        "hashes": {
+          "button_01.png": "3836e34ca94ede12a93fbdf5297bb1fd35ffa74328e7e3b63c88733bd6e390f4",
+          "button_02.png": "af750cec875828b017232d0b412ea7d4ca752f0aad558fb6d06f42c95cbea350",
+          "button_03.png": "4f001c4e72e72cc12f110c90f6e71a6cf8a9c599b724428ea4511e37d854f8bc",
+          "button_04.png": "9af755a6f77f232f25fc8ad1e3311da04f78a8119d51117918a4e9261f04d7fe",
+          "button_05.png": "ad87bf6ca5df5210930e64d122817f5ac46e5a59dc2f59274d918e3b37c8b411",
+          "button_06.png": "a01908713500a9f7bbf95c5edc829b63e24878610961f9102d12d00da505493e",
+          "button_07.png": "6883947fd42bdf7215e3143624812b208becdcdb20d709ab6b5f8f588cc63897",
+          "button_08.png": "7a259e94bb1616794a27250601452f9fbcd6bd2299f6f7f3c137073fb9986eca",
+          "button_09.png": "9644748cf8c664aaf5137fe36ba6d74ebed56559bfda661d037892331b5573de",
+          "button_10.png": "b967b2ab1a8fb6ed12729b211526445bcf9fa098bb7d5ae4177ea65c78678c89",
+          "button_11.png": "885608b57665e2367342217114966da918b26f06ebdd63d86a4563555606c3d8",
+          "button_12.png": "241aebddab8fdf8233e02b8318eb9676be08edaa7583b9ee6d1546f39623b063"
         }
       }
     ]
