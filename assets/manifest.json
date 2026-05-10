@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -2159,7 +2159,16 @@
           "scrapbook_52.png",
           "scrapbook_53.png",
           "scrapbook_54.png",
+          "scrapbook_55.png",
+          "scrapbook_56.png",
+          "scrapbook_57.png",
+          "scrapbook_58.png",
+          "scrapbook_59.png",
           "scrapbook_6.png",
+          "scrapbook_60.png",
+          "scrapbook_61.png",
+          "scrapbook_62.png",
+          "scrapbook_63.png",
           "scrapbook_9.png"
         ],
         "hashes": {
@@ -2208,7 +2217,16 @@
           "scrapbook_53.png": "4b0576b51282120b4d782f8b4b59ca4d6c1179761ed21b9b321655cf21930c0b",
           "scrapbook_54.png": "9b9287bdc3aa0ce561e5f238190ef227ceeb69079f381548314d84a7d6894d9f",
           "scrapbook_6.png": "cb323e98872e0d751af95e830edc137c166c083a1060109f567f09520f6e1cb0",
-          "scrapbook_9.png": "7076e83b468bc75510b02af44c3229d378988095c23dd4bbac49ce917f293eb4"
+          "scrapbook_9.png": "7076e83b468bc75510b02af44c3229d378988095c23dd4bbac49ce917f293eb4",
+          "scrapbook_55.png": "eb688a38dfc05c60cd785868b32c664c140e05668e383c4ad55f6f47f6851bd4",
+          "scrapbook_56.png": "66cdb0fbc1586597fcab368077780d595007a80c93d261482ec3a2cd2a7d0aae",
+          "scrapbook_57.png": "eac58f134babdd6acb93bfcba97fdead560eb1bbb4f1bbd72a5caaa1b6c7fb20",
+          "scrapbook_58.png": "4d024c73273e00c3e404d332f05cc7042c1f0eafd09fe059b167e734e0f80c38",
+          "scrapbook_59.png": "576abafa68396117f0e00085a066391335d3266e4d3cb1f2bfc9de07381641c3",
+          "scrapbook_60.png": "389b3ca7bff3fa22b98ae06e55c14826fec0b1c94fdc5d522fb831b91544613f",
+          "scrapbook_61.png": "b42c28f02ea4e6d8ce4938dcde76a4ac3534bbd2e6e586c5efdfd0fafcabd26e",
+          "scrapbook_62.png": "1ca67dd17b57ba5aef1f17bdd1e2fab347efe27d9c4dcc83738bc377bb08bb54",
+          "scrapbook_63.png": "ed2d1e9a7a0b6b8904878ddf267782bee518c38f1324cc036570576360193c94"
         }
       },
       {
