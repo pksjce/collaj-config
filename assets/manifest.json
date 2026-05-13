@@ -1,5 +1,5 @@
 {
-  "version": 18,
+  "version": 19,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -3162,6 +3162,16 @@
           "texture_14.png",
           "texture_15.png",
           "texture_16.png"
+        ]
+      },
+      {
+        "id": "cooking",
+        "name": "Cooking",
+        "subfolder": "stickers/Cooking",
+        "gridStyle": "square",
+        "files": [
+          "cooking_pan.png",
+          "cooking_spatula.png"
         ]
       }
     ]
