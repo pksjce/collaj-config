@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -2908,6 +2908,19 @@
           "citymaps_148.png",
           "citymaps_149.png",
           "citymaps_150.png"
+        ]
+      },
+      {
+        "id": "mountainVistas",
+        "name": "Mountain Vistas",
+        "subfolder": "stickers/MountainVistas",
+        "gridStyle": "square",
+        "files": [
+          "mountainvistas_01.png",
+          "mountainvistas_02.png",
+          "mountainvistas_03.png",
+          "mountainvistas_04.png",
+          "mountainvistas_05.png"
         ]
       }
     ]
