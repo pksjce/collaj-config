@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
+  "templates": [
+    {
+      "id": "project-no-17",
+      "name": "May photo dump",
+      "recipeFile": "project-no-17/recipe.json",
+      "thumbnailFile": "project-no-17/thumbnail.png",
+      "pageCount": 1
+    },
+    {
+      "id": "project-no-19",
+      "name": "Project no. 19",
+      "recipeFile": "project-no-19/recipe.json",
+      "thumbnailFile": "project-no-19/thumbnail.png",
+      "pageCount": 1
+    }
+  ]
+}
