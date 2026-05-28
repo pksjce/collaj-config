@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -1081,7 +1081,18 @@
           "torn_v2_31.png",
           "torn_v2_32.png",
           "torn_v2_6.png",
-          "torn_v2_7.png"
+          "torn_v2_7.png",
+          "torn_v3_1.png",
+          "torn_v3_10.png",
+          "torn_v3_11.png",
+          "torn_v3_2.png",
+          "torn_v3_3.png",
+          "torn_v3_4.png",
+          "torn_v3_5.png",
+          "torn_v3_6.png",
+          "torn_v3_7.png",
+          "torn_v3_8.png",
+          "torn_v3_9.png"
         ]
       },
       {
@@ -3381,6 +3392,25 @@
           "mountainvistas_04.png": "Cloud Wisp",
           "mountainvistas_05.png": "Sunset Valley"
         }
+      },
+      {
+        "id": "techStickers",
+        "name": "Tech Stickers",
+        "subfolder": "stickers/TechStickers",
+        "gridStyle": "square",
+        "files": [
+          "tech_01.png",
+          "tech_02.png",
+          "tech_03.png",
+          "tech_04.png",
+          "tech_05.png",
+          "tech_06.png",
+          "tech_07.png",
+          "tech_08.png",
+          "tech_09.png",
+          "tech_10.png",
+          "tech_11.png"
+        ]
       }
     ]
   },
