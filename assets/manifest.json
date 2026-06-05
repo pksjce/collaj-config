@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -3491,21 +3491,21 @@
         "name": "Dark Kraft",
         "file": "textures/kraft_paper_dark.png",
         "previewColor": "#8B7355",
-        "sha256": "a81b3a832d878f2c4fbcf688f84029e3bf0b936ea05b5ffd1b0e278aeb57be76"
+        "sha256": "71a721207343a65a1f810b9da3e9e6bd51c6daea452298e95690430de0fd5a71"
       },
       {
         "id": "kraft_paper_light",
         "name": "Light Kraft",
         "file": "textures/kraft_paper_light.png",
         "previewColor": "#D4C4A8",
-        "sha256": "eb41cec636e72ed04d9ea7719f35113e98787920c7fbe2c8237c610c06a6ed3a"
+        "sha256": "49120b51ddf4e6b0bc8c72c292980070bbaa528431039bdb487fd9b63e0a2cc0"
       },
       {
         "id": "kraft_paper_vintage",
         "name": "Vintage Kraft",
         "file": "textures/kraft_paper_vintage.png",
         "previewColor": "#B8A080",
-        "sha256": "aab17a89c321591a5991e226fc05982cf85276e819865865cfa8ee1ba446c3f9"
+        "sha256": "08820037bc85ccd04b5b2edd859d3b379cb3dd2d9cfc6f5c825ba7eaee02a541"
       },
       {
         "id": "newsprint",
@@ -3526,7 +3526,7 @@
         "name": "Crumpled Cream",
         "file": "textures/paper_crumpled_cream.png",
         "previewColor": "#F0E8D8",
-        "sha256": "9d66f5a0b6c7828ea2dda8e5495989e8a55120bde4ba612d9a0e6c060f07331d"
+        "sha256": "3d12d010a8ef3f700124450a86497fa75098d0ae9a488d6707859557581f450f"
       },
       {
         "id": "paper_crumpled_pink",
