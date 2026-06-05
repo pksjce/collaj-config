@@ -7,21 +7,24 @@
       "name": "Our First Year",
       "recipeFile": "our-first-year/recipe.json",
       "thumbnailFile": "our-first-year/thumbnail.png",
-      "pageCount": 1
+      "pageCount": 1,
+      "category": "Baby & Milestones"
     },
     {
       "id": "project-no-17",
       "name": "May photo dump",
       "recipeFile": "project-no-17/recipe.json",
       "thumbnailFile": "project-no-17/thumbnail.png",
-      "pageCount": 1
+      "pageCount": 1,
+      "category": "Photo Dumps"
     },
     {
       "id": "project-no-19",
       "name": "Project no. 19",
       "recipeFile": "project-no-19/recipe.json",
       "thumbnailFile": "project-no-19/thumbnail.png",
-      "pageCount": 1
+      "pageCount": 1,
+      "category": "Photo Dumps"
     }
   ]
 }
