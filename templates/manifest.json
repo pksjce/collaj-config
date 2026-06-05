@@ -3,6 +3,13 @@
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
+      "id": "our-first-year",
+      "name": "Our First Year",
+      "recipeFile": "our-first-year/recipe.json",
+      "thumbnailFile": "our-first-year/thumbnail.png",
+      "pageCount": 1
+    },
+    {
       "id": "project-no-17",
       "name": "May photo dump",
       "recipeFile": "project-no-17/recipe.json",
