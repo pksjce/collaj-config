@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -25,6 +25,14 @@
       "thumbnailFile": "project-no-19/thumbnail.png",
       "pageCount": 1,
       "category": "Photo Dumps"
+    },
+    {
+      "id": "travel-diary",
+      "name": "Travel Diary",
+      "recipeFile": "travel-diary/recipe.json",
+      "thumbnailFile": "travel-diary/thumbnail.png",
+      "pageCount": 1,
+      "category": "Travel"
     }
   ]
 }
