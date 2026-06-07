@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -33,6 +33,14 @@
       "thumbnailFile": "travel-diary/thumbnail.png",
       "pageCount": 1,
       "category": "Travel"
+    },
+    {
+      "id": "june-roundup-journal",
+      "name": "June Roundup Journal",
+      "recipeFile": "june-roundup-journal/recipe.json",
+      "thumbnailFile": "june-roundup-journal/thumbnail.png",
+      "pageCount": 2,
+      "category": "Journals"
     }
   ]
 }
