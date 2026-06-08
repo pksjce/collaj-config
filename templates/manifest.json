@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -33,6 +33,14 @@
       "thumbnailFile": "june-roundup-journal/thumbnail.png",
       "pageCount": 2,
       "category": "Journals"
+    },
+    {
+      "id": "photo-book",
+      "name": "Photo Book",
+      "recipeFile": "photo-book/recipe.json",
+      "thumbnailFile": "photo-book/thumbnail.png",
+      "pageCount": 1,
+      "category": "Photo Books"
     }
   ]
 }
