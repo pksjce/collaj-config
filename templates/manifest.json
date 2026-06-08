@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -41,6 +41,22 @@
       "thumbnailFile": "photo-book/thumbnail.png",
       "pageCount": 1,
       "category": "Photo Books"
+    },
+    {
+      "id": "honeycomb-cluster",
+      "name": "Honeycomb",
+      "recipeFile": "honeycomb-cluster/recipe.json",
+      "thumbnailFile": "honeycomb-cluster/thumbnail.png",
+      "pageCount": 1,
+      "category": "Honeycomb"
+    },
+    {
+      "id": "honeycomb-column",
+      "name": "Honeycomb Strip",
+      "recipeFile": "honeycomb-column/recipe.json",
+      "thumbnailFile": "honeycomb-column/thumbnail.png",
+      "pageCount": 1,
+      "category": "Honeycomb"
     }
   ]
 }
