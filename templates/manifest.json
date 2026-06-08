@@ -1,5 +1,5 @@
 {
-  "version": 12,
+  "version": 13,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -57,6 +57,38 @@
       "thumbnailFile": "honeycomb-column/thumbnail.png",
       "pageCount": 1,
       "category": "Honeycomb"
+    },
+    {
+      "id": "weekend-roundup",
+      "name": "Weekend Roundup",
+      "recipeFile": "weekend-roundup/recipe.json",
+      "thumbnailFile": "weekend-roundup/thumbnail.png",
+      "pageCount": 1,
+      "category": "Weekend"
+    },
+    {
+      "id": "weekend-flashback",
+      "name": "Weekend Flashback",
+      "recipeFile": "weekend-flashback/recipe.json",
+      "thumbnailFile": "weekend-flashback/thumbnail.png",
+      "pageCount": 1,
+      "category": "Weekend"
+    },
+    {
+      "id": "weekend-story",
+      "name": "Weekend Story",
+      "recipeFile": "weekend-story/recipe.json",
+      "thumbnailFile": "weekend-story/thumbnail.png",
+      "pageCount": 1,
+      "category": "Weekend"
+    },
+    {
+      "id": "weekend-playlist",
+      "name": "Weekend Playlist",
+      "recipeFile": "weekend-playlist/recipe.json",
+      "thumbnailFile": "weekend-playlist/thumbnail.png",
+      "pageCount": 1,
+      "category": "Weekend"
     }
   ]
 }
