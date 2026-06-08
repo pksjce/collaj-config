@@ -1,7 +1,15 @@
 {
-  "version": 4,
+  "version": 5,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
+    {
+      "id": "reels-feed",
+      "name": "Reels Feed",
+      "recipeFile": "reels-feed/recipe.json",
+      "thumbnailFile": "reels-feed/thumbnail.png",
+      "pageCount": 1,
+      "category": "Social"
+    },
     {
       "id": "our-first-year",
       "name": "Our First Year",
