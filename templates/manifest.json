@@ -1,5 +1,5 @@
 {
-  "version": 17,
+  "version": 18,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -105,6 +105,14 @@
       "thumbnailFile": "trip-scrapbook/thumbnail.png",
       "pageCount": 3,
       "category": "Travel"
+    },
+    {
+      "id": "once-always",
+      "name": "Once Again Always",
+      "recipeFile": "once-always/recipe.json",
+      "thumbnailFile": "once-always/thumbnail.png",
+      "pageCount": 1,
+      "category": "Covers"
     }
   ]
 }
