@@ -1,5 +1,5 @@
 {
-  "version": 19,
+  "version": 20,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -121,6 +121,14 @@
       "thumbnailFile": "heart-grid/thumbnail.png",
       "pageCount": 1,
       "category": "Grids"
+    },
+    {
+      "id": "pinned-note",
+      "name": "Pinned Note",
+      "recipeFile": "pinned-note/recipe.json",
+      "thumbnailFile": "pinned-note/thumbnail.png",
+      "pageCount": 1,
+      "category": "Quotes"
     }
   ]
 }
