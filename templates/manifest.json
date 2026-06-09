@@ -1,5 +1,5 @@
 {
-  "version": 15,
+  "version": 16,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -89,6 +89,14 @@
       "thumbnailFile": "weekend-playlist/thumbnail.png",
       "pageCount": 1,
       "category": "Weekend"
+    },
+    {
+      "id": "journaling-spread",
+      "name": "Journaling Spread",
+      "recipeFile": "journaling-spread/recipe.json",
+      "thumbnailFile": "journaling-spread/thumbnail.png",
+      "pageCount": 2,
+      "category": "Journals"
     }
   ]
 }
