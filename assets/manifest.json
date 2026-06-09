@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -4103,6 +4103,110 @@
         "file": "textures/azulejo_tiles.png",
         "previewColor": "#928F99",
         "sha256": "8c584457a3f00f7bc4d0cfbf2075cf09ac7ebf6be13cdee88bc94ae3a8f322c2"
+      }
+    ]
+  },
+  "stockPhotos": {
+    "themes": [
+      {
+        "id": "scenic",
+        "subfolder": "stockphotos/scenic",
+        "files": [
+          "scenic_01.jpg",
+          "scenic_02.jpg",
+          "scenic_03.jpg",
+          "scenic_04.jpg",
+          "scenic_05.jpg",
+          "scenic_06.jpg"
+        ],
+        "hashes": {
+          "scenic_01.jpg": "fc83db8d2c747996309e3d1df0ece471025ff52b755ea0be54d5561af4fdea0a",
+          "scenic_02.jpg": "e36a1da6ee5f25f4bfbfa2a52166061d945606f66f363a6e0318a88e12da887a",
+          "scenic_03.jpg": "a4891184d3f38132fb08dcb545ceb7f3ff6406714744bde7837e8a301fb3d8a6",
+          "scenic_04.jpg": "d4e1286b8378fd5053c59260024a10d267fc6878173edccb6309cb40c4264108",
+          "scenic_05.jpg": "957041ab8bc7c569337ea2cec6f4e9119656e0de6de0bd53bbf2031983071a31",
+          "scenic_06.jpg": "e7dfb03679e1767cb41fc268f2cabfce82e5499dfb5a45efaca164fa379e7224"
+        }
+      },
+      {
+        "id": "people",
+        "subfolder": "stockphotos/people",
+        "files": [
+          "people_01.jpg",
+          "people_02.jpg",
+          "people_03.jpg",
+          "people_04.jpg",
+          "people_05.jpg",
+          "people_06.jpg"
+        ],
+        "hashes": {
+          "people_01.jpg": "b17f68b9e37c244afd1172c7e11b75800269506f911a75bf35111a05211c3f63",
+          "people_02.jpg": "122a2a0687c237c6435ceaf10de64bf5f2e3259aa69e098e36971c9deeb67d2f",
+          "people_03.jpg": "697441f86606df3125a136add0a710c30f85b10ca5e4deb961b8bf22bfd29c12",
+          "people_04.jpg": "c3f6f9796b1e423db31108a4834ced71c25f63b455d8de5026ee74f35e77dec5",
+          "people_05.jpg": "9989038d96ccd8fd4d9f23dc8334853c1504f0d3dd97d86163fd91f83926feb5",
+          "people_06.jpg": "c5e0a7c3379b6609885b551297997953e7ae988e662d9c153f7968057eade40a"
+        }
+      },
+      {
+        "id": "family",
+        "subfolder": "stockphotos/family",
+        "files": [
+          "family_01.jpg",
+          "family_02.jpg",
+          "family_03.jpg",
+          "family_04.jpg",
+          "family_05.jpg",
+          "family_06.jpg"
+        ],
+        "hashes": {
+          "family_01.jpg": "c526a6c26adbfc10ec52461db0edd9185ea81f7dfcdb2b1600bdb7f17028a0c7",
+          "family_02.jpg": "d1be0ff4348a7468df6bbbed3579bcb1ebd7ee2b383f0c5e87dd2efa85d98560",
+          "family_03.jpg": "432ac2231723e420847549a9b0aed6175f433fad413da63db982eb4719be88fd",
+          "family_04.jpg": "03e5d421dace70be2bb606fdbcf5da8261c4ee9ab6ba992c75c8c9f17be966aa",
+          "family_05.jpg": "8e6d382c69e2a783fd09f78045882ede41789f18fd1a3244cbee7fc3e393c3e4",
+          "family_06.jpg": "63f69d8c13921ed0ba49aec822bb961b8fe89b0a95a3fd8c7f2eb3372f6d0274"
+        }
+      },
+      {
+        "id": "cozy",
+        "subfolder": "stockphotos/cozy",
+        "files": [
+          "cozy_01.jpg",
+          "cozy_02.jpg",
+          "cozy_03.jpg",
+          "cozy_04.jpg",
+          "cozy_05.jpg",
+          "cozy_06.jpg"
+        ],
+        "hashes": {
+          "cozy_01.jpg": "87a667a3888acad43e18ebecc339ea4884d4b02b7c48991744b9b48d91bf0c5a",
+          "cozy_02.jpg": "8d773fd43cb45836faa56182ed4a43484ed8c1ef004819c3515d24c5aed43cef",
+          "cozy_03.jpg": "0d5530bfd3bc1862f37ff5b467cd4ddf4b57e3e95c268c8ad86e3a46f632e751",
+          "cozy_04.jpg": "b253e04d8ab775088f3b3a9167f6318634d6644a9c8a9255de8d8a925d87f02e",
+          "cozy_05.jpg": "658ef6a8d207570eeae24ff23213247fa1c26513a67e64487c39c223d20be068",
+          "cozy_06.jpg": "57567afd90ee217ce0b8ff870fd36513a68deffcd434567898b4ecce289fdae9"
+        }
+      },
+      {
+        "id": "vibrant",
+        "subfolder": "stockphotos/vibrant",
+        "files": [
+          "vibrant_01.jpg",
+          "vibrant_02.jpg",
+          "vibrant_03.jpg",
+          "vibrant_04.jpg",
+          "vibrant_05.jpg",
+          "vibrant_06.jpg"
+        ],
+        "hashes": {
+          "vibrant_01.jpg": "ac5e0e5a3bd036c6b4c7246bc114e7070f9aa5b6d27b4aee35253463f2158d6d",
+          "vibrant_02.jpg": "51eff9266dd0a9b59276ba5f17dc09e42670877e1e2079c758564832e9f98030",
+          "vibrant_03.jpg": "3c3e49dbe94aca513a70e253a94e4a0b95408fa6ba801b20f1120169a4d4e97a",
+          "vibrant_04.jpg": "62a4b70cef403b8e53a760a5a8db90ecc1e7ca5e27c37d9594fcc2541519d3ea",
+          "vibrant_05.jpg": "274edde2b7c7ff9af4c6507ef461c2b102fb08653ef71f8926845f53be5b1df4",
+          "vibrant_06.jpg": "409aabe5838788fc11e6a78e996ea8f0859e18e46abc984b87509cf77deab72d"
+        }
       }
     ]
   }
