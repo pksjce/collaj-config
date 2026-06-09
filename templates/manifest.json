@@ -1,5 +1,5 @@
 {
-  "version": 16,
+  "version": 17,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -97,6 +97,14 @@
       "thumbnailFile": "journaling-spread/thumbnail.png",
       "pageCount": 2,
       "category": "Journals"
+    },
+    {
+      "id": "trip-scrapbook",
+      "name": "Trip Scrapbook",
+      "recipeFile": "trip-scrapbook/recipe.json",
+      "thumbnailFile": "trip-scrapbook/thumbnail.png",
+      "pageCount": 3,
+      "category": "Travel"
     }
   ]
 }
