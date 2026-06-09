@@ -1,63 +1,7 @@
 {
-  "version": 20,
+  "version": 21,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
-    {
-      "id": "reels-feed",
-      "name": "Reels Feed",
-      "recipeFile": "reels-feed/recipe.json",
-      "thumbnailFile": "reels-feed/thumbnail.png",
-      "pageCount": 1,
-      "category": "Social"
-    },
-    {
-      "id": "our-first-year",
-      "name": "Our First Year",
-      "recipeFile": "our-first-year/recipe.json",
-      "thumbnailFile": "our-first-year/thumbnail.png",
-      "pageCount": 1,
-      "category": "Baby & Milestones"
-    },
-    {
-      "id": "travel-diary",
-      "name": "Travel Diary",
-      "recipeFile": "travel-diary/recipe.json",
-      "thumbnailFile": "travel-diary/thumbnail.png",
-      "pageCount": 1,
-      "category": "Travel"
-    },
-    {
-      "id": "june-roundup-journal",
-      "name": "June Roundup Journal",
-      "recipeFile": "june-roundup-journal/recipe.json",
-      "thumbnailFile": "june-roundup-journal/thumbnail.png",
-      "pageCount": 2,
-      "category": "Journals"
-    },
-    {
-      "id": "photo-book",
-      "name": "Photo Book",
-      "recipeFile": "photo-book/recipe.json",
-      "thumbnailFile": "photo-book/thumbnail.png",
-      "pageCount": 1,
-      "category": "Photo Books"
-    },
-    {
-      "id": "honeycomb-cluster",
-      "name": "Honeycomb",
-      "recipeFile": "honeycomb-cluster/recipe.json",
-      "thumbnailFile": "honeycomb-cluster/thumbnail.png",
-      "pageCount": 1,
-      "category": "Honeycomb"
-    },
-    {
-      "id": "honeycomb-column",
-      "name": "Honeycomb Strip",
-      "recipeFile": "honeycomb-column/recipe.json",
-      "thumbnailFile": "honeycomb-column/thumbnail.png",
-      "pageCount": 1,
-      "category": "Honeycomb"
-    },
     {
       "id": "weekend-roundup",
       "name": "Weekend Roundup",
@@ -91,12 +35,12 @@
       "category": "Weekend"
     },
     {
-      "id": "journaling-spread",
-      "name": "Journaling Spread",
-      "recipeFile": "journaling-spread/recipe.json",
-      "thumbnailFile": "journaling-spread/thumbnail.png",
-      "pageCount": 2,
-      "category": "Journals"
+      "id": "travel-diary",
+      "name": "Travel Diary",
+      "recipeFile": "travel-diary/recipe.json",
+      "thumbnailFile": "travel-diary/thumbnail.png",
+      "pageCount": 1,
+      "category": "Travel"
     },
     {
       "id": "trip-scrapbook",
@@ -112,7 +56,71 @@
       "recipeFile": "once-always/recipe.json",
       "thumbnailFile": "once-always/thumbnail.png",
       "pageCount": 1,
-      "category": "Covers"
+      "category": "Travel"
+    },
+    {
+      "id": "our-first-year",
+      "name": "Our First Year",
+      "recipeFile": "our-first-year/recipe.json",
+      "thumbnailFile": "our-first-year/thumbnail.png",
+      "pageCount": 1,
+      "category": "Memories"
+    },
+    {
+      "id": "photo-book",
+      "name": "Photo Book",
+      "recipeFile": "photo-book/recipe.json",
+      "thumbnailFile": "photo-book/thumbnail.png",
+      "pageCount": 1,
+      "category": "Memories"
+    },
+    {
+      "id": "june-roundup-journal",
+      "name": "June Roundup Journal",
+      "recipeFile": "june-roundup-journal/recipe.json",
+      "thumbnailFile": "june-roundup-journal/thumbnail.png",
+      "pageCount": 2,
+      "category": "Journals"
+    },
+    {
+      "id": "journaling-spread",
+      "name": "Journaling Spread",
+      "recipeFile": "journaling-spread/recipe.json",
+      "thumbnailFile": "journaling-spread/thumbnail.png",
+      "pageCount": 2,
+      "category": "Journals"
+    },
+    {
+      "id": "pinned-note",
+      "name": "Pinned Note",
+      "recipeFile": "pinned-note/recipe.json",
+      "thumbnailFile": "pinned-note/thumbnail.png",
+      "pageCount": 1,
+      "category": "Journals"
+    },
+    {
+      "id": "reels-feed",
+      "name": "Reels Feed",
+      "recipeFile": "reels-feed/recipe.json",
+      "thumbnailFile": "reels-feed/thumbnail.png",
+      "pageCount": 1,
+      "category": "Grids"
+    },
+    {
+      "id": "honeycomb-cluster",
+      "name": "Honeycomb",
+      "recipeFile": "honeycomb-cluster/recipe.json",
+      "thumbnailFile": "honeycomb-cluster/thumbnail.png",
+      "pageCount": 1,
+      "category": "Grids"
+    },
+    {
+      "id": "honeycomb-column",
+      "name": "Honeycomb Strip",
+      "recipeFile": "honeycomb-column/recipe.json",
+      "thumbnailFile": "honeycomb-column/thumbnail.png",
+      "pageCount": 1,
+      "category": "Grids"
     },
     {
       "id": "heart-grid",
@@ -121,14 +129,6 @@
       "thumbnailFile": "heart-grid/thumbnail.png",
       "pageCount": 1,
       "category": "Grids"
-    },
-    {
-      "id": "pinned-note",
-      "name": "Pinned Note",
-      "recipeFile": "pinned-note/recipe.json",
-      "thumbnailFile": "pinned-note/thumbnail.png",
-      "pageCount": 1,
-      "category": "Quotes"
     }
   ]
 }
