@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -3435,7 +3435,7 @@
         "name": "Black",
         "file": "textures/black.png",
         "previewColor": "#1A1A1A",
-        "sha256": "522c0f75220df419aa7c477e7a1910cf1eb83dbf0b6694699df94838960a76c5"
+        "sha256": "f3bd0a74318c5325490bb75e9984254f586e237f3019ee3991d3d733ac0f812f"
       },
       {
         "id": "constellations_map",
@@ -3449,7 +3449,7 @@
         "name": "Cork",
         "file": "textures/cork.png",
         "previewColor": "#B8956A",
-        "sha256": "d84984e3efb01e05c060eb4984982234e32f2cb34c6c663f5cddc7cd84339729"
+        "sha256": "a4740c4b242c04f7cacbe990d6e764905313bdd93b53649427445502801eabac"
       },
       {
         "id": "galaxy_0",
@@ -3477,70 +3477,70 @@
         "name": "Gold Foil",
         "file": "textures/gold_foil.png",
         "previewColor": "#D4B54A",
-        "sha256": "66b40ac17df594f8b74fbc1a14a41428505ab00aa8cca0dc5885c9231677491e"
+        "sha256": "698ded54783ed6163657ebe1f3cfa70b56b0f12e00d73163704abb63f5523c45"
       },
       {
         "id": "kraft",
         "name": "Kraft",
         "file": "textures/kraft.png",
         "previewColor": "#C4A882",
-        "sha256": "8580f54d3b6495795af5c99afc647e76d3b05b27b185f4debce64a6bd3fc09de"
+        "sha256": "6d858c06f173dd61f536561df9e70f8a9988654b7203122d73e6081fbf5e9bc8"
       },
       {
         "id": "kraft_paper_dark",
         "name": "Dark Kraft",
         "file": "textures/kraft_paper_dark.png",
         "previewColor": "#8B7355",
-        "sha256": "7a739aa652bcbd3a5178ce6d465bc4bb5e1ce125c1cd4af4f01b9693724ff01d"
+        "sha256": "950c4d759cfbb1907acc09bbc6aecf6bbb5c2b8a12a04ba2c76a2a9713737f7f"
       },
       {
         "id": "kraft_paper_light",
         "name": "Light Kraft",
         "file": "textures/kraft_paper_light.png",
         "previewColor": "#D4C4A8",
-        "sha256": "f03ffb0dc3231d9985874dc6e292cd37e96c22e48fb70cdafaa7d6987e047052"
+        "sha256": "7914546748a247c72f16bf7e19078d379f79c88638487d4ca63f73ec0c7b5f38"
       },
       {
         "id": "kraft_paper_vintage",
         "name": "Vintage Kraft",
         "file": "textures/kraft_paper_vintage.png",
         "previewColor": "#B8A080",
-        "sha256": "e376142f1f34987d4d8b3e90dd776664f891098c38cc4e96db533d79ecd1254c"
+        "sha256": "48ff7bb181d84e5368ab3699b14f33b24e1d43d6d55121ca9c73ddb82442a72d"
       },
       {
         "id": "newsprint",
         "name": "Newsprint",
         "file": "textures/newsprint.png",
         "previewColor": "#E8E0D0",
-        "sha256": "58b194a78c115ec593ac1c6c5cc6bc3163ca5480088e6ed11aaa408e193cc20c"
+        "sha256": "4b86f9955b9a2978d674b8be8109e49d1b4702a9de6f339e24205efd884bab61"
       },
       {
         "id": "paper_crumpled_blue",
         "name": "Crumpled Blue",
         "file": "textures/paper_crumpled_blue.png",
         "previewColor": "#B0C4D8",
-        "sha256": "fa336fc22854b8f899ca2e912c7694402b2c1094de6109ce98456a1a5a4d1599"
+        "sha256": "abc751b7afcfae7195f092fb71c17f32fb4392b4cf8433ba06b61a2493959a7d"
       },
       {
         "id": "paper_crumpled_cream",
         "name": "Crumpled Cream",
         "file": "textures/paper_crumpled_cream.png",
         "previewColor": "#F0E8D8",
-        "sha256": "45d86b1a3034512d977686df289650e07d57f4933213cb41ec40e866b458d0ed"
+        "sha256": "46091dc59b767d4db47757bab6e23258e33fd6acaf406617771a580a6664f00e"
       },
       {
         "id": "paper_crumpled_pink",
         "name": "Crumpled Pink",
         "file": "textures/paper_crumpled_pink.png",
         "previewColor": "#E8C0C8",
-        "sha256": "7a79f7d5832141d27cff3fd19c142b18a359db7798699ded72547f7222a54310"
+        "sha256": "57a73b45b4a273aa2e47eac98135570edb44c7dc1c14ec56eb71630dabd73676"
       },
       {
         "id": "paper_crumpled_white",
         "name": "Crumpled White",
         "file": "textures/paper_crumpled_white.png",
         "previewColor": "#F0F0F0",
-        "sha256": "17751db45268860ca6b002dbab54db95ab4aa2c81996ee7f74e42a75c95c8183"
+        "sha256": "fe08e692190dba3cbda5869df42f4b7be211c2223c8ebebe0d1c13a3933d0936"
       },
       {
         "id": "paper_texture_0",
@@ -3687,21 +3687,21 @@
         "name": "Rose Gold",
         "file": "textures/rose_gold_foil.png",
         "previewColor": "#D4A088",
-        "sha256": "394598cc355adf8b1ffbf25336ce1ee233c37e8fd86d1561f9efff96626af584"
+        "sha256": "bf053c1e9ee5532108b20646f60117fa64990965101bd091e455f72a1e8b3662"
       },
       {
         "id": "scrapbook_kit",
         "name": "Scrapbook",
         "file": "textures/scrapbook_kit.png",
         "previewColor": "#E8D8C8",
-        "sha256": "d7a7c0eb8b4b8bb751c9e4faa55bf1f8091c03c187651b5d66fccfaa5fa4dec6"
+        "sha256": "bb510e56520daf9e1128ece760aa330b98d022bf9a874cb54038c69b2e40e8f5"
       },
       {
         "id": "silver_foil",
         "name": "Silver Foil",
         "file": "textures/silver_foil.png",
         "previewColor": "#C0C0C0",
-        "sha256": "d045068b1c52e6cb36bb7e7f8e8e353afdfb054b47bae5f6ceabefa0389eac78"
+        "sha256": "c22b23183e3df51251069264f5c9ddac06255e49219fa6ddd47c6e92dee7f6df"
       },
       {
         "id": "white",
