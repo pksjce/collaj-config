@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -3561,70 +3561,70 @@
         "name": "Paper 10",
         "file": "textures/paper_texture_10.png",
         "previewColor": "#D8D0C0",
-        "sha256": "c2facc8fcafaf65d91a98d315c005e54ca0e5aa6d28fdab81241d4fc3ff87384"
+        "sha256": "67136ba715378655db1a30913f53f99b3629bcbc20140691a6b4f6ee22dc43d1"
       },
       {
         "id": "paper_texture_11",
         "name": "Paper 11",
         "file": "textures/paper_texture_11.png",
         "previewColor": "#D8D0C0",
-        "sha256": "c1184ca4a49a587bef185e91dd588246e63c1d9cb6d6bfd31006a1bf2f19f252"
+        "sha256": "33b0ea0fc070ae967dffe6bd5a69cd2aa8ce336f083f4fe6ffc9612ed255186f"
       },
       {
         "id": "paper_texture_12",
         "name": "Paper 12",
         "file": "textures/paper_texture_12.png",
         "previewColor": "#D8D0C0",
-        "sha256": "ced23b08842da69cb7e395dedeeb0b73ba8bfd6bac9e8703692bfb57cc218f27"
+        "sha256": "bb52f261d6a988ef7c621056ecda461cb5e5261ce290f43535bb79c07eccc398"
       },
       {
         "id": "paper_texture_13",
         "name": "Paper 13",
         "file": "textures/paper_texture_13.png",
         "previewColor": "#D8D0C0",
-        "sha256": "a751def79e4b869ff7121b2e980de21289e74b97c59ae1d2711a916c336d85b1"
+        "sha256": "a19d917f92d1c0c949f10f6d1b110d9745daa6b11421ef4dda45e954b5497e58"
       },
       {
         "id": "paper_texture_14",
         "name": "Paper 14",
         "file": "textures/paper_texture_14.png",
         "previewColor": "#D8D0C0",
-        "sha256": "0c1d3c9cb404eea910231470735fb6dcfcfca22de9bba75510072ddbd16390aa"
+        "sha256": "3a98f40bedf87ef182f78e4ab664552e9ad7d752d0a705f427d1798743d7f3f4"
       },
       {
         "id": "paper_texture_15",
         "name": "Paper 15",
         "file": "textures/paper_texture_15.png",
         "previewColor": "#D8D0C0",
-        "sha256": "74e19c55cddae7f6f3716541b3ecf34e37fa5dd2d01107a99324de96b553a8f7"
+        "sha256": "6b71f802766338839c6c5c7f66df0cc10d6649ccc1d2fafdcd1ed385b39e7063"
       },
       {
         "id": "paper_texture_16",
         "name": "Paper 16",
         "file": "textures/paper_texture_16.png",
         "previewColor": "#D8D0C0",
-        "sha256": "3135735610121bef74f135294c87600bad7ff8ac2acb699aad7302225809060e"
+        "sha256": "bdd97c3616444f6bd608cb7d8da70b36163669d10609ffd4d6fc9e2e90ae3d6a"
       },
       {
         "id": "paper_texture_17",
         "name": "Paper 17",
         "file": "textures/paper_texture_17.png",
         "previewColor": "#D8D0C0",
-        "sha256": "e6e794352b48fc116d988e191e5b2a1733819b500736ba2102543e6237d443b0"
+        "sha256": "4634be096e476c83eeb6eaffae7640853a3371ba84b21ee9c3550b5f59b6f34c"
       },
       {
         "id": "paper_texture_18",
         "name": "Paper 18",
         "file": "textures/paper_texture_18.png",
         "previewColor": "#D8D0C0",
-        "sha256": "ab74dd4acbe76a2bbfe935eb3e3ebff9f6a054036a8b911af8a90f5262041c7e"
+        "sha256": "9b8ed2cb073fda3637586c6b477032ba97feae98af0f046276aef67ecb025514"
       },
       {
         "id": "paper_texture_19",
         "name": "Paper 19",
         "file": "textures/paper_texture_19.png",
         "previewColor": "#D8D0C0",
-        "sha256": "8a419c2da9d769f735032f2c02815b85e8d5864e62d205998740cccea4a26345"
+        "sha256": "b0f3a2c87dde377526ef1c367b9c50b35afcefd306e2f9030e5a586cad2b5dcb"
       },
       {
         "id": "paper_texture_2",
@@ -3645,28 +3645,28 @@
         "name": "Paper 4",
         "file": "textures/paper_texture_4.png",
         "previewColor": "#D8D0C0",
-        "sha256": "4f16746153e4e531d104f6193936d128ad81df6eb3146b51135ebdd9e3a96011"
+        "sha256": "a784c84773e0993ee81aac8aeb04d749c663b2e449d8b3f4bfc4f10db810a794"
       },
       {
         "id": "paper_texture_5",
         "name": "Paper 5",
         "file": "textures/paper_texture_5.png",
         "previewColor": "#D8D0C0",
-        "sha256": "34fa8e6d3832eb771100a58a6dda38c6405009b30a181695ebc91f8c0985caea"
+        "sha256": "731c69a4fab821d4e3dcc7c19ed298e4a7ed8bac864c7473d309eef80e208ca6"
       },
       {
         "id": "paper_texture_6",
         "name": "Paper 6",
         "file": "textures/paper_texture_6.png",
         "previewColor": "#D8D0C0",
-        "sha256": "7346a0dd4e613c714b2c9da4c881fde5ec1ae22b8a9ef1644632ce5d5d6d1739"
+        "sha256": "40efe60cd9e14d85c55066c44e00ce2a49eda6036ebd710e029a8dea601f8505"
       },
       {
         "id": "paper_texture_7",
         "name": "Paper 7",
         "file": "textures/paper_texture_7.png",
         "previewColor": "#D8D0C0",
-        "sha256": "e2d0310df0edb088d575a9de575a0929bbb5725d0e3b2a50e751446316e48490"
+        "sha256": "de3757a5f9f4bb36cfc785d1a6aef7e49f2fc687c070a00937071d823ec5cb7e"
       },
       {
         "id": "paper_texture_8",
@@ -3680,7 +3680,7 @@
         "name": "Paper 9",
         "file": "textures/paper_texture_9.png",
         "previewColor": "#D8D0C0",
-        "sha256": "5c81fa89a1244ad95bdc54f40031c063f1f7a96f5c012ce6cbfe0a47059a10a3"
+        "sha256": "711bf4f41534c8c062be0234ee9acbf9d13b055e836d4b50eca5a41721fbd51e"
       },
       {
         "id": "rose_gold_foil",
