@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -3715,14 +3715,14 @@
         "name": "Green Gingham Stars",
         "file": "textures/gingham_green_stars.png",
         "previewColor": "#C7CDAC",
-        "sha256": "2807f10ece0deb1a1b14185c71a89d747b218849e856e62406da96be3572294b"
+        "sha256": "739964ef325ae4db23bda372796a0862a1ff2c6216d16101698a1c79cb14dcaa"
       },
       {
         "id": "plaid_blue_watercolor",
         "name": "Blue Watercolor Plaid",
         "file": "textures/plaid_blue_watercolor.png",
         "previewColor": "#E8EFF3",
-        "sha256": "93de1bf90901ebfdb91f85899b5b1c314114c7a979566b9bed1bc30e2b3de8f2"
+        "sha256": "8c2e5977640bf36fc285b19c5e545ae3d003bb54a4ef4a1d4e065dc05588b1a6"
       },
       {
         "id": "polka_yellow",
@@ -3736,21 +3736,21 @@
         "name": "Brown Leather",
         "file": "textures/leather_brown_stitched.png",
         "previewColor": "#573B2D",
-        "sha256": "58736e2525620b0e59ad7586c57f631a72cadf36fed01ecbe13cda452e00b7b2"
+        "sha256": "75dadcbed1980d81096c72041418b990c2badd74d61e32bd8f1e639ff15b1f59"
       },
       {
         "id": "gingham_pink_floral",
         "name": "Pink Floral Gingham",
         "file": "textures/gingham_pink_floral.png",
         "previewColor": "#FBE4E8",
-        "sha256": "c6b7494323120a894dd7b4cdebdad46ecc6bc50b0bb749de5e83db68cdda2a07"
+        "sha256": "ac04b2d961584dfe63260f32b861d8ff7edad7f6e7eb3571c035add77bc76dea"
       },
       {
         "id": "seashells_blue",
         "name": "Blue Seashells",
         "file": "textures/seashells_blue.png",
         "previewColor": "#CECBD8",
-        "sha256": "c4363efdb4d7deac458dd6956257bc6823c800dc4c05b9d8dc6a2740cfcb8b86"
+        "sha256": "79f5686db28c841ab9056db38bd01b7e7b0b5831c4adc4a51d55052a5ca0d2d4"
       },
       {
         "id": "polka_periwinkle",
@@ -3764,70 +3764,70 @@
         "name": "Blue Chevron",
         "file": "textures/chevron_blue.png",
         "previewColor": "#97BEE5",
-        "sha256": "74148b79eeff952f1f05001bbccca0a27f3fa05d20abd64de668478ce9a93cf9"
+        "sha256": "c74c63454c951e5792cac114cc153f9b8f6fe620386fda467d8087822f68b9fb"
       },
       {
         "id": "gingham_lavender",
         "name": "Lavender Gingham",
         "file": "textures/gingham_lavender.png",
         "previewColor": "#DAD8EA",
-        "sha256": "030953e4bdc2a65321c2fb3d9e2bb7a62e370e8d724fc8dde80bab583d077f2f"
+        "sha256": "8906e43b957a2fc54597fa86d124bbf6c5ef26934850474bfefe0c48a87179ec"
       },
       {
         "id": "clouds_periwinkle",
         "name": "Periwinkle Clouds",
         "file": "textures/clouds_periwinkle.png",
         "previewColor": "#B7BBE6",
-        "sha256": "8b3fd592f05dc9300426549b28cd5aaeb87a0743883c776098fbab42997a0973"
+        "sha256": "f9c5f2b17d701d6b50d97f7008d96c06a8539d7968d476fc72ea30969dd6b7fa"
       },
       {
         "id": "plaid_pastel_argyle",
         "name": "Pastel Argyle",
         "file": "textures/plaid_pastel_argyle.png",
         "previewColor": "#DBDAEA",
-        "sha256": "0d006a374a3a9142a89da6b5eb46b342e5ed42032ec0988337244873fdc8a677"
+        "sha256": "ab3a4d87c3f0f7894c69087439e6dfa062ebdf4a8f7376454c431eb849b0f898"
       },
       {
         "id": "lemons_blue",
         "name": "Blue Lemons",
         "file": "textures/lemons_blue.png",
         "previewColor": "#7F8F7A",
-        "sha256": "b8be7c670d32407792cbd5df1557085e36e6b3afe5d3f2c500be9be5f2e5ba50"
+        "sha256": "17c0077e4f085f495043b049abec54fc99c89aceb835adbdbbcbeff6480bca1d"
       },
       {
         "id": "gingham_blue_diagonal",
         "name": "Blue Diagonal Gingham",
         "file": "textures/gingham_blue_diagonal.png",
         "previewColor": "#C0D7E5",
-        "sha256": "28c2b2da64e686c59548531dd074661730df9d3927ca6755b172571e14990291"
+        "sha256": "9406700d654415e1f65851092542db27ef6c1588aabf55457f961d5a362d3e2e"
       },
       {
         "id": "bows_blue",
         "name": "Blue Bows",
         "file": "textures/bows_blue.png",
         "previewColor": "#E2E5E8",
-        "sha256": "591efd4090cbe5303af98873fa81fe4da7c90e2f743bcf9f9ed2497f3155c1d3"
+        "sha256": "c4de692351905e7b5fd95957eb0bf8bd19855dc0d635c13ecd9fc33deacf385c"
       },
       {
         "id": "shibori_indigo",
         "name": "Shibori Indigo",
         "file": "textures/shibori_indigo.png",
         "previewColor": "#5276A2",
-        "sha256": "f56f8e3b990c608838f7720d3d31da1c2057e319810f809122e6fd37771cf825"
+        "sha256": "7c30c70d85680b52e2e3690458c9e7ddff0c50d88c7958450dbfdaedeb94638e"
       },
       {
         "id": "scales_blue_mermaid",
         "name": "Mermaid Scales",
         "file": "textures/scales_blue_mermaid.png",
         "previewColor": "#327ABF",
-        "sha256": "bd054ea63ba7f02f790877541514c1a107823020977ce0ffcbdbe7330d2749f2"
+        "sha256": "ba55911507ea6bf66800442c04aabbf9938b1fbb066cc139b51ef513b584e1ff"
       },
       {
         "id": "azulejo_tiles",
         "name": "Azulejo Tiles",
         "file": "textures/azulejo_tiles.png",
         "previewColor": "#928F99",
-        "sha256": "8c584457a3f00f7bc4d0cfbf2075cf09ac7ebf6be13cdee88bc94ae3a8f322c2"
+        "sha256": "7cd093995b81f757b9ffdd7a7471de7d56f619e41403b8c77907eab50b88a3e8"
       }
     ],
     "stickerTextures": [
