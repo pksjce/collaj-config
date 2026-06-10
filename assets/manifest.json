@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/assets",
   "stickers": {
     "categories": [
@@ -3547,14 +3547,14 @@
         "name": "Paper 0",
         "file": "textures/paper_texture_0.png",
         "previewColor": "#D8D0C0",
-        "sha256": "3ac74a6cf66495e7284be6a04888bd6e9adf161fe70f28104de2795060bd6d40"
+        "sha256": "b6ddf55af17490211f2bc2ece3ce1d565ad4c101252b1dc979da6bc993b3fc48"
       },
       {
         "id": "paper_texture_1",
         "name": "Paper 1",
         "file": "textures/paper_texture_1.png",
         "previewColor": "#D8D0C0",
-        "sha256": "c402b20d959af984316b229466f8532ec1fa3b582f391f9915454e77d6927e7d"
+        "sha256": "b5540ced8f7b8d5250ae120cbe4c7ed9685ee7e739dbaff90437b6d41c61ed1b"
       },
       {
         "id": "paper_texture_10",
@@ -3631,14 +3631,14 @@
         "name": "Paper 2",
         "file": "textures/paper_texture_2.png",
         "previewColor": "#D8D0C0",
-        "sha256": "2743c2b82c2da5304c45fb49ba24aa75fa5783cc2dd344122a8def2c1aede951"
+        "sha256": "95f21b10c66f85381e678c8a216e5370491a8f3196d8d6ba0061047642be5d14"
       },
       {
         "id": "paper_texture_3",
         "name": "Paper 3",
         "file": "textures/paper_texture_3.png",
         "previewColor": "#D8D0C0",
-        "sha256": "e810b64ac8acf8a5de006d77a7b7b8d3bd703907ac6d0e6e9f1bbd6f10ea7c1d"
+        "sha256": "1e5919be22346c1282f322ebb0f4c173916aa1d8a9dff1822cca56e48abe21d4"
       },
       {
         "id": "paper_texture_4",
@@ -3673,7 +3673,7 @@
         "name": "Paper 8",
         "file": "textures/paper_texture_8.png",
         "previewColor": "#D8D0C0",
-        "sha256": "520b9d82852000adf47d7055e0fe0cd0442b0929591f2dfe55b23f8d4320c500"
+        "sha256": "8f50efab549ec7fdd4e8ac95d07d33fb7ce77ef3a1d09525d84550ad4bf08585"
       },
       {
         "id": "paper_texture_9",
@@ -3708,7 +3708,7 @@
         "name": "White",
         "file": "textures/white.png",
         "previewColor": "#FFFFFF",
-        "sha256": "02cb5fbe7d29d9641e3a9cd2bca6f712994438aa119871dc7c9604b20ce70a18"
+        "sha256": "7ffcdb68288037f250891056c9a4927ae613544bed34b57e5f6d5fea709a8ad6"
       },
       {
         "id": "gingham_green_stars",
