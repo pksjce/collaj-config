@@ -1,5 +1,5 @@
 {
-  "version": 21,
+  "version": 22,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -127,6 +127,14 @@
       "name": "Heart Grid",
       "recipeFile": "heart-grid/recipe.json",
       "thumbnailFile": "heart-grid/thumbnail.png",
+      "pageCount": 1,
+      "category": "Grids"
+    },
+    {
+      "id": "photo-dump",
+      "name": "Photo Dump",
+      "recipeFile": "photo-dump/recipe.json",
+      "thumbnailFile": "photo-dump/thumbnail.png",
       "pageCount": 1,
       "category": "Grids"
     }
