@@ -1,5 +1,5 @@
 {
-  "version": 23,
+  "version": 24,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -147,10 +147,10 @@
       "category": "Cities"
     },
     {
-      "id": "city-paris-tall",
-      "name": "Paris Tall",
-      "recipeFile": "city-paris-tall/recipe.json",
-      "thumbnailFile": "city-paris-tall/thumbnail.png",
+      "id": "city-paris-split",
+      "name": "Paris Split",
+      "recipeFile": "city-paris-split/recipe.json",
+      "thumbnailFile": "city-paris-split/thumbnail.png",
       "pageCount": 1,
       "category": "Cities"
     },
@@ -163,10 +163,10 @@
       "category": "Cities"
     },
     {
-      "id": "city-london-tall",
-      "name": "London Tall",
-      "recipeFile": "city-london-tall/recipe.json",
-      "thumbnailFile": "city-london-tall/thumbnail.png",
+      "id": "city-london-split",
+      "name": "London Split",
+      "recipeFile": "city-london-split/recipe.json",
+      "thumbnailFile": "city-london-split/thumbnail.png",
       "pageCount": 1,
       "category": "Cities"
     },
@@ -179,10 +179,10 @@
       "category": "Cities"
     },
     {
-      "id": "city-berlin-tall",
-      "name": "Berlin Tall",
-      "recipeFile": "city-berlin-tall/recipe.json",
-      "thumbnailFile": "city-berlin-tall/thumbnail.png",
+      "id": "city-berlin-split",
+      "name": "Berlin Split",
+      "recipeFile": "city-berlin-split/recipe.json",
+      "thumbnailFile": "city-berlin-split/thumbnail.png",
       "pageCount": 1,
       "category": "Cities"
     },
@@ -195,10 +195,10 @@
       "category": "Cities"
     },
     {
-      "id": "city-new-york-tall",
-      "name": "New York Tall",
-      "recipeFile": "city-new-york-tall/recipe.json",
-      "thumbnailFile": "city-new-york-tall/thumbnail.png",
+      "id": "city-new-york-split",
+      "name": "New York Split",
+      "recipeFile": "city-new-york-split/recipe.json",
+      "thumbnailFile": "city-new-york-split/thumbnail.png",
       "pageCount": 1,
       "category": "Cities"
     },
@@ -211,10 +211,10 @@
       "category": "Cities"
     },
     {
-      "id": "city-rome-tall",
-      "name": "Rome Tall",
-      "recipeFile": "city-rome-tall/recipe.json",
-      "thumbnailFile": "city-rome-tall/thumbnail.png",
+      "id": "city-rome-split",
+      "name": "Rome Split",
+      "recipeFile": "city-rome-split/recipe.json",
+      "thumbnailFile": "city-rome-split/thumbnail.png",
       "pageCount": 1,
       "category": "Cities"
     },
@@ -227,10 +227,10 @@
       "category": "Cities"
     },
     {
-      "id": "city-tokyo-tall",
-      "name": "Tokyo Tall",
-      "recipeFile": "city-tokyo-tall/recipe.json",
-      "thumbnailFile": "city-tokyo-tall/thumbnail.png",
+      "id": "city-tokyo-split",
+      "name": "Tokyo Split",
+      "recipeFile": "city-tokyo-split/recipe.json",
+      "thumbnailFile": "city-tokyo-split/thumbnail.png",
       "pageCount": 1,
       "category": "Cities"
     }
