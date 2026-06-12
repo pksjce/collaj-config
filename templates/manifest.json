@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -137,6 +137,102 @@
       "thumbnailFile": "photo-dump/thumbnail.png",
       "pageCount": 1,
       "category": "Grids"
+    },
+    {
+      "id": "city-paris",
+      "name": "Paris",
+      "recipeFile": "city-paris/recipe.json",
+      "thumbnailFile": "city-paris/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-paris-tall",
+      "name": "Paris Tall",
+      "recipeFile": "city-paris-tall/recipe.json",
+      "thumbnailFile": "city-paris-tall/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-london",
+      "name": "London",
+      "recipeFile": "city-london/recipe.json",
+      "thumbnailFile": "city-london/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-london-tall",
+      "name": "London Tall",
+      "recipeFile": "city-london-tall/recipe.json",
+      "thumbnailFile": "city-london-tall/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-berlin",
+      "name": "Berlin",
+      "recipeFile": "city-berlin/recipe.json",
+      "thumbnailFile": "city-berlin/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-berlin-tall",
+      "name": "Berlin Tall",
+      "recipeFile": "city-berlin-tall/recipe.json",
+      "thumbnailFile": "city-berlin-tall/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-new-york",
+      "name": "New York",
+      "recipeFile": "city-new-york/recipe.json",
+      "thumbnailFile": "city-new-york/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-new-york-tall",
+      "name": "New York Tall",
+      "recipeFile": "city-new-york-tall/recipe.json",
+      "thumbnailFile": "city-new-york-tall/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-rome",
+      "name": "Rome",
+      "recipeFile": "city-rome/recipe.json",
+      "thumbnailFile": "city-rome/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-rome-tall",
+      "name": "Rome Tall",
+      "recipeFile": "city-rome-tall/recipe.json",
+      "thumbnailFile": "city-rome-tall/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-tokyo",
+      "name": "Tokyo",
+      "recipeFile": "city-tokyo/recipe.json",
+      "thumbnailFile": "city-tokyo/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
+    },
+    {
+      "id": "city-tokyo-tall",
+      "name": "Tokyo Tall",
+      "recipeFile": "city-tokyo-tall/recipe.json",
+      "thumbnailFile": "city-tokyo-tall/thumbnail.png",
+      "pageCount": 1,
+      "category": "Cities"
     }
   ]
 }
