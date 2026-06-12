@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -233,6 +233,14 @@
       "thumbnailFile": "city-tokyo-split/thumbnail.png",
       "pageCount": 1,
       "category": "Cities"
+    },
+    {
+      "id": "character-moodboard",
+      "name": "Character Moodboard",
+      "recipeFile": "character-moodboard/recipe.json",
+      "thumbnailFile": "character-moodboard/thumbnail.png",
+      "pageCount": 1,
+      "category": "Moodboards"
     }
   ]
 }
