@@ -1,5 +1,5 @@
 {
-  "version": 26,
+  "version": 27,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
     {
@@ -241,6 +241,30 @@
       "thumbnailFile": "character-moodboard/thumbnail.png",
       "pageCount": 1,
       "category": "Moodboards"
+    },
+    {
+      "id": "tv-quote-card",
+      "name": "Retro TV",
+      "recipeFile": "tv-quote-card/recipe.json",
+      "thumbnailFile": "tv-quote-card/thumbnail.png",
+      "pageCount": 1,
+      "category": "Bookish"
+    },
+    {
+      "id": "gilded-gallery",
+      "name": "Gilded Gallery",
+      "recipeFile": "gilded-gallery/recipe.json",
+      "thumbnailFile": "gilded-gallery/thumbnail.png",
+      "pageCount": 1,
+      "category": "Bookish"
+    },
+    {
+      "id": "phone-diptych",
+      "name": "Phone Diptych",
+      "recipeFile": "phone-diptych/recipe.json",
+      "thumbnailFile": "phone-diptych/thumbnail.png",
+      "pageCount": 1,
+      "category": "Bookish"
     }
   ]
 }
