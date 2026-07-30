@@ -27,7 +27,7 @@
  ],
  "layers": [
   {
-   "id": "4D294C92-D2E2-4C9B-949F-60CAC16036F4",
+   "id": "6737C11A-C777-472A-B4E2-D2938663D875",
    "transform": {
     "x": -362.0,
     "y": 0.0,
@@ -38,7 +38,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "4D294C92-D2E2-4C9B-949F-60CAC16036F4",
+   "slotId": "6737C11A-C777-472A-B4E2-D2938663D875",
    "slotAspectW": 362.0,
    "slotAspectH": 452.5,
    "slotShape": "rectangle",
@@ -46,7 +46,7 @@
    "zIndex": 0
   },
   {
-   "id": "11627308-CA32-483F-911A-D7769E1E43E9",
+   "id": "060C2EF6-32C2-459A-BE93-FE9326865FE6",
    "transform": {
     "x": 0.0,
     "y": 0.0,
@@ -57,7 +57,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "11627308-CA32-483F-911A-D7769E1E43E9",
+   "slotId": "060C2EF6-32C2-459A-BE93-FE9326865FE6",
    "slotAspectW": 362.0,
    "slotAspectH": 452.5,
    "slotShape": "rectangle",
@@ -65,7 +65,7 @@
    "zIndex": 1
   },
   {
-   "id": "D5598E8C-EE10-4B38-9170-C719DA0FA4C5",
+   "id": "B6D71E26-50A9-4DAE-B5FE-F339EF2B7158",
    "transform": {
     "x": 362.0,
     "y": 0.0,
@@ -76,7 +76,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "D5598E8C-EE10-4B38-9170-C719DA0FA4C5",
+   "slotId": "B6D71E26-50A9-4DAE-B5FE-F339EF2B7158",
    "slotAspectW": 362.0,
    "slotAspectH": 452.5,
    "slotShape": "rectangle",
@@ -84,7 +84,7 @@
    "zIndex": 2
   },
   {
-   "id": "7CC617B9-A779-4306-8840-E67805432911",
+   "id": "AEA8D653-02D4-4458-8122-EE3D502ACA46",
    "transform": {
     "x": -102.23,
     "y": -150.83,
@@ -95,7 +95,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "7CC617B9-A779-4306-8840-E67805432911",
+   "slotId": "AEA8D653-02D4-4458-8122-EE3D502ACA46",
    "slotAspectW": 1.0444,
    "slotAspectH": 1.0,
    "slotShape": "rectangle",
@@ -103,7 +103,7 @@
    "zIndex": 3
   },
   {
-   "id": "10192DCF-8541-475E-B2DC-7143402F8318",
+   "id": "9073421B-7B23-492A-AAE5-D39699AE3FE7",
    "transform": {
     "x": -522.89,
     "y": -186.03,
@@ -114,12 +114,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 4
   },
   {
-   "id": "A0C276A1-2B9A-4802-B9B7-1FE56BBE7561",
+   "id": "8A71D102-A89C-4F0B-941D-E2E55FD62EF0",
    "transform": {
     "x": -492.72,
     "y": -206.14,
@@ -130,12 +131,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 5
   },
   {
-   "id": "E4568779-BE9E-4A48-B59A-D7591294CDF0",
+   "id": "99DFCE7B-47F3-4EB1-87B7-C2C5D05DF9AD",
    "transform": {
     "x": -529.59,
     "y": -118.99,
@@ -146,12 +148,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 6
   },
   {
-   "id": "824C93F2-FF11-4C63-BDFC-F86EBBA55D38",
+   "id": "0E510395-B426-45A8-A4C7-732451A5078D",
    "transform": {
     "x": -212.84,
     "y": -175.97,
@@ -162,12 +165,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 7
   },
   {
-   "id": "2F5CFDCB-8B79-40DE-8D0F-9257B98E20F9",
+   "id": "1B5AA60E-3471-42FB-B297-9DFC62F74D94",
    "transform": {
     "x": -519.54,
     "y": 149.16,
@@ -178,12 +182,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 8
   },
   {
-   "id": "808108AF-056E-49F4-BFFD-55AE4EF9712F",
+   "id": "829E0ECC-0B6A-46FA-A50B-659EBEE13E70",
    "transform": {
     "x": -459.2,
     "y": -165.92,
@@ -194,12 +199,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 9
   },
   {
-   "id": "064DDFFD-68C6-43FC-A20C-ECB7C1983EAE",
+   "id": "718FB452-54DE-4330-8E39-0EA48E95DA3D",
    "transform": {
     "x": -227.93,
     "y": -85.47,
@@ -210,12 +216,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 10
   },
   {
-   "id": "B051E592-E647-4FEF-A3BD-FBE8D1D8B63C",
+   "id": "A366E91F-0E01-46EF-8D50-2FE55A2D7344",
    "transform": {
     "x": -482.67,
     "y": 169.27,
@@ -226,12 +233,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 11
   },
   {
-   "id": "A3C914A7-B4AF-4026-BEF7-E8F72D38FC22",
+   "id": "EB9B425F-FCA0-4754-B3E1-F602CE583192",
    "transform": {
     "x": -254.74,
     "y": -194.41,
@@ -242,12 +250,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/Buttons/button_07.png",
    "zIndex": 12
   },
   {
-   "id": "B8D2A056-696B-4284-8F7C-72E83496D83E",
+   "id": "F6A3E5A1-A02D-4A77-9BCC-4814F9C7CA79",
    "transform": {
     "x": -21.79,
     "y": -149.16,
@@ -258,12 +267,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/TornPaper/torn_paper_1.png",
    "zIndex": 13
   },
   {
-   "id": "9E0954A2-173A-4257-91FB-E0107F5714CD",
+   "id": "8BDD7DAE-DE5B-4B07-90AC-D9AB68743CC1",
    "transform": {
     "x": -102.23,
     "y": -72.74,
@@ -274,12 +284,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/TornPaper/torn_paper_9.png",
    "zIndex": 14
   },
   {
-   "id": "056C21A6-EABE-492F-82B0-0691080492B6",
+   "id": "E432F0DC-6973-4AE6-A5F4-84F18CFB6CEF",
    "transform": {
     "x": -181.0,
     "y": -112.29,
@@ -290,12 +301,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/TornPaper/torn_paper_1.png",
    "zIndex": 15
   },
   {
-   "id": "BBF78383-B02C-4CCB-9C5D-41E91E655287",
+   "id": "FF7C342C-D48B-4E59-8A4F-5660ECAED890",
    "transform": {
     "x": -181.0,
     "y": 112.29,
@@ -306,12 +318,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/TornPaper/torn_paper_1.png",
    "zIndex": 16
   },
   {
-   "id": "CDE2C04C-352A-481F-B6FB-3ECACAB97F01",
+   "id": "39BF8A2C-0BAE-445B-8032-95CF1F0C4F04",
    "transform": {
     "x": 181.0,
     "y": -112.29,
@@ -322,12 +335,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/TornPaper/torn_paper_8.png",
    "zIndex": 17
   },
   {
-   "id": "9171CB61-A119-41FE-820E-52B99006A44F",
+   "id": "05CE3340-FD0C-4E29-B672-93AAED9FA1CD",
    "transform": {
     "x": 181.0,
     "y": 112.29,
@@ -338,12 +352,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/TornPaper/torn_paper_8.png",
    "zIndex": 18
   },
   {
-   "id": "D499C92E-E4E3-4459-BE23-2E2103AB7BF8",
+   "id": "E4DD76BE-BD3E-4CC9-9F33-43B18FF57DB4",
    "transform": {
     "x": 201.11,
     "y": -98.88,
@@ -354,12 +369,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/white_card_5.png",
    "zIndex": 19
   },
   {
-   "id": "152E231D-EE20-4545-9034-193E28373151",
+   "id": "6FBD9E62-0CFD-4C43-A5A5-EB9FE7A3DCB8",
    "transform": {
     "x": 201.11,
     "y": -98.88,
@@ -370,7 +386,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "152E231D-EE20-4545-9034-193E28373151",
+   "slotId": "6FBD9E62-0CFD-4C43-A5A5-EB9FE7A3DCB8",
    "slotAspectW": 1.1333,
    "slotAspectH": 1.0,
    "slotShape": "rectangle",
@@ -378,7 +394,7 @@
    "zIndex": 20
   },
   {
-   "id": "3D29CB84-40CC-475C-B3E1-5E82F3AA30BA",
+   "id": "BDC85AF5-3FA4-4A7F-9C38-541C356B08A6",
    "transform": {
     "x": 132.4,
     "y": -154.19,
@@ -389,12 +405,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/white_card_2.png",
    "zIndex": 21
   },
   {
-   "id": "445AA40A-A7F4-4C2A-8878-FF35FF1FCAFE",
+   "id": "8F66D93D-EDE1-4B2E-B9C5-CC8F3095A89F",
    "transform": {
     "x": 199.44,
     "y": 13.41,
@@ -405,12 +422,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/puzzle_f.png",
    "zIndex": 22
   },
   {
-   "id": "B8245E36-C0CD-46AC-9B4E-C5ADBDAFA5C9",
+   "id": "A7CDBF87-D59D-42EF-B229-0394517FB071",
    "transform": {
     "x": 132.4,
     "y": -154.19,
@@ -421,7 +439,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "B8245E36-C0CD-46AC-9B4E-C5ADBDAFA5C9",
+   "slotId": "A7CDBF87-D59D-42EF-B229-0394517FB071",
    "slotAspectW": 1.0,
    "slotAspectH": 1.0303,
    "slotShape": "rectangle",
@@ -429,7 +447,7 @@
    "zIndex": 23
   },
   {
-   "id": "22F47BDD-B19A-4702-B949-5BBBE14002F2",
+   "id": "D89F5DF3-3C3F-4E99-91A9-2008DCE81147",
    "transform": {
     "x": -362.0,
     "y": 3.02,
@@ -440,12 +458,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/profile_card_f.png",
    "zIndex": 24
   },
   {
-   "id": "FAADB348-36ED-4DA4-98B0-FF7C59BA0F2A",
+   "id": "1947C0C3-1F20-4993-A607-153F0E580FF2",
    "transform": {
     "x": 15.08,
     "y": -136.42,
@@ -456,12 +475,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/white_card_1.png",
    "zIndex": 25
   },
   {
-   "id": "38C3C7E4-C2C6-4493-B91D-6BD05DB78EEF",
+   "id": "B8200AAF-4AA8-4F8B-97E7-B702B11B1685",
    "transform": {
     "x": 253.06,
     "y": -141.78,
@@ -472,12 +492,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_36.png",
    "zIndex": 26
   },
   {
-   "id": "61874E45-F43F-4790-98B2-E0748ECB1059",
+   "id": "BE4C4768-A517-47DD-9D7C-AA82DD718352",
    "transform": {
     "x": 340.21,
     "y": -139.1,
@@ -488,12 +509,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/polaroid_clean.png",
    "zIndex": 27
   },
   {
-   "id": "C38754E2-576C-4E3C-B9E6-E46A57EAD041",
+   "id": "C0AF9838-5941-4644-8BDA-EE2DB36C4B5E",
    "transform": {
     "x": 15.08,
     "y": -136.42,
@@ -504,7 +526,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "C38754E2-576C-4E3C-B9E6-E46A57EAD041",
+   "slotId": "C0AF9838-5941-4644-8BDA-EE2DB36C4B5E",
    "slotAspectW": 1.0,
    "slotAspectH": 1.0588,
    "slotShape": "rectangle",
@@ -512,7 +534,7 @@
    "zIndex": 28
   },
   {
-   "id": "6E182982-83CB-4F46-8FCB-DC54E9F5AC15",
+   "id": "D38740EE-010A-4622-8811-757998BDF56F",
    "transform": {
     "x": 339.86,
     "y": -149.27,
@@ -523,7 +545,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "6E182982-83CB-4F46-8FCB-DC54E9F5AC15",
+   "slotId": "D38740EE-010A-4622-8811-757998BDF56F",
    "slotAspectW": 1.0,
    "slotAspectH": 1.0268,
    "slotShape": "rectangle",
@@ -531,7 +553,7 @@
    "zIndex": 29
   },
   {
-   "id": "CC02BAFC-7DEF-4F29-AE56-2943D69660A3",
+   "id": "D115A68C-D4C0-4DF7-8D2A-310CD0E4A944",
    "transform": {
     "x": 342.33,
     "y": -78.34,
@@ -552,7 +574,7 @@
    "zIndex": 30
   },
   {
-   "id": "4BF83357-2F03-4D43-A1FE-30F84F9D39B0",
+   "id": "03D4E21A-ACFB-49E9-93DA-D2F31F65F653",
    "transform": {
     "x": -413.28,
     "y": 0.0,
@@ -563,7 +585,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "4BF83357-2F03-4D43-A1FE-30F84F9D39B0",
+   "slotId": "03D4E21A-ACFB-49E9-93DA-D2F31F65F653",
    "slotAspectW": 1.0,
    "slotAspectH": 1.1224,
    "slotShape": "rectangle",
@@ -571,7 +593,7 @@
    "zIndex": 31
   },
   {
-   "id": "FE44CABF-CE75-4F62-B5C8-929E46C4B3E8",
+   "id": "82771C41-64C2-45AA-ADC9-9A29B52039E7",
    "transform": {
     "x": -310.72,
     "y": 0.0,
@@ -582,7 +604,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "FE44CABF-CE75-4F62-B5C8-929E46C4B3E8",
+   "slotId": "82771C41-64C2-45AA-ADC9-9A29B52039E7",
    "slotAspectW": 1.0,
    "slotAspectH": 1.1224,
    "slotShape": "rectangle",
@@ -590,7 +612,7 @@
    "zIndex": 32
   },
   {
-   "id": "7CF97327-EA39-4275-96F8-82E078E49892",
+   "id": "81B80CAB-B5AC-4C40-A7A6-569C4609D459",
    "transform": {
     "x": -413.28,
     "y": 114.63,
@@ -601,7 +623,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "7CF97327-EA39-4275-96F8-82E078E49892",
+   "slotId": "81B80CAB-B5AC-4C40-A7A6-569C4609D459",
    "slotAspectW": 1.0,
    "slotAspectH": 1.1224,
    "slotShape": "rectangle",
@@ -609,7 +631,7 @@
    "zIndex": 33
   },
   {
-   "id": "88406205-CA51-471B-8F60-2FC812923F54",
+   "id": "8424C450-8FB6-4911-A5B7-5D18C8CFD443",
    "transform": {
     "x": -310.72,
     "y": 114.63,
@@ -620,7 +642,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "88406205-CA51-471B-8F60-2FC812923F54",
+   "slotId": "8424C450-8FB6-4911-A5B7-5D18C8CFD443",
    "slotAspectW": 1.0,
    "slotAspectH": 1.1224,
    "slotShape": "rectangle",
@@ -628,7 +650,7 @@
    "zIndex": 34
   },
   {
-   "id": "3815719C-8C58-4DE7-8A3E-EE14B9835BD9",
+   "id": "A8C7DE45-989D-44FA-B993-64B1032DAAD8",
    "transform": {
     "x": 479.31,
     "y": -38.55,
@@ -639,12 +661,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/polaroid_clean.png",
    "zIndex": 35
   },
   {
-   "id": "14873FC6-EB26-4AB2-A674-E0B46B42F139",
+   "id": "61F0A66C-1A41-4B15-BD03-EFCD12AEA0C9",
    "transform": {
     "x": 479.78,
     "y": -47.43,
@@ -655,7 +678,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "14873FC6-EB26-4AB2-A674-E0B46B42F139",
+   "slotId": "61F0A66C-1A41-4B15-BD03-EFCD12AEA0C9",
    "slotAspectW": 1.0,
    "slotAspectH": 1.0268,
    "slotShape": "rectangle",
@@ -663,7 +686,7 @@
    "zIndex": 36
   },
   {
-   "id": "4154C8E9-72D1-4099-91FF-674C0DAFC5F9",
+   "id": "B6151064-E987-4956-B9FD-850AE17AA529",
    "transform": {
     "x": 476.53,
     "y": 14.58,
@@ -684,7 +707,7 @@
    "zIndex": 37
   },
   {
-   "id": "47B0E046-2C78-4DB8-B0D0-267C8015A5A5",
+   "id": "F62268C6-C7A7-4463-BFC6-5BA9CFC8B89D",
    "transform": {
     "x": -362.0,
     "y": -127.04,
@@ -705,7 +728,7 @@
    "zIndex": 38
   },
   {
-   "id": "0DC9B24A-9ED5-487E-A27C-1E7B51713DD8",
+   "id": "F25A2F46-0957-4215-97FD-DFCE101EE27E",
    "transform": {
     "x": 83.8,
     "y": -93.85,
@@ -716,12 +739,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/LaceBows/lacebows_34.png",
    "zIndex": 39
   },
   {
-   "id": "99451F24-AC93-4610-B4D9-A659B83537AC",
+   "id": "4E513E90-C977-4FE4-8B3E-347DC117B4C5",
    "transform": {
     "x": 132.4,
     "y": -210.5,
@@ -732,12 +756,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_36.png",
    "zIndex": 40
   },
   {
-   "id": "BFD3EEDC-786D-466D-8A60-E035BF96732A",
+   "id": "A4F25109-ADB2-499E-A6AE-4693B4FC8446",
    "transform": {
     "x": 243.01,
     "y": -68.71,
@@ -748,12 +773,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/BowsRibbons/bowsribbons_02.png",
    "zIndex": 41
   },
   {
-   "id": "78E2323F-3536-404E-8021-80A9F6A67969",
+   "id": "CC86921A-9190-4AC6-97F8-D6FCAAFB5247",
    "transform": {
     "x": 212.84,
     "y": -31.84,
@@ -764,12 +790,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/BowsRibbons/bowsribbons_03.png",
    "zIndex": 42
   },
   {
-   "id": "A8852457-643A-4FEC-81FE-3C523BCB63AC",
+   "id": "F34C7F90-68B7-4FC3-B75D-BF4A5154DD8D",
    "transform": {
     "x": 321.78,
     "y": 4.36,
@@ -780,12 +807,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/polaroid_clean.png",
    "zIndex": 43
   },
   {
-   "id": "3511A19F-6827-428F-8E3F-7F42491A6963",
+   "id": "F3E4C9A1-C0E2-45CB-8CB2-C1DF4EED3409",
    "transform": {
     "x": 321.95,
     "y": -5.3,
@@ -796,7 +824,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "3511A19F-6827-428F-8E3F-7F42491A6963",
+   "slotId": "F3E4C9A1-C0E2-45CB-8CB2-C1DF4EED3409",
    "slotAspectW": 1.0,
    "slotAspectH": 1.0268,
    "slotShape": "rectangle",
@@ -804,7 +832,7 @@
    "zIndex": 44
   },
   {
-   "id": "6FFDF57B-B773-46DA-A931-DF901114DBF5",
+   "id": "76F1E747-26FB-410C-A01B-D799ADD60156",
    "transform": {
     "x": 320.77,
     "y": 62.11,
@@ -825,7 +853,7 @@
    "zIndex": 45
   },
   {
-   "id": "32139135-7B1F-4A4A-BE32-6C6D5F7D5627",
+   "id": "F50FAD3B-1FA0-4632-AA75-B0A546BAD72F",
    "transform": {
     "x": -182.68,
     "y": -172.62,
@@ -836,12 +864,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 46
   },
   {
-   "id": "7D88C448-9A61-4DBD-93EE-E3980BDA3A8F",
+   "id": "0978DEF3-A256-48C5-A68E-6BDCF86D6176",
    "transform": {
     "x": -179.32,
     "y": 28.49,
@@ -852,12 +881,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 47
   },
   {
-   "id": "FF1780EF-C4B5-4139-AC62-3803702CE422",
+   "id": "12D88730-F171-4A06-AE8A-28A3728D332A",
    "transform": {
     "x": -160.89,
     "y": -38.55,
@@ -868,12 +898,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_62.png",
    "zIndex": 48
   },
   {
-   "id": "24AD1C19-DC78-4A8D-A432-3A4CEF84B8E3",
+   "id": "2B69DA0E-FD0B-47DF-9017-F485ED0D44AE",
    "transform": {
     "x": -169.27,
     "y": -5.03,
@@ -884,12 +915,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_62.png",
    "zIndex": 49
   },
   {
-   "id": "781DD377-3D1D-46B5-A05F-9B9480A21F64",
+   "id": "85C13BD7-6396-40BE-A69E-00FDDB3A528E",
    "transform": {
     "x": -120.67,
     "y": -115.64,
@@ -900,12 +932,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_62.png",
    "zIndex": 50
   },
   {
-   "id": "A5D67133-FD63-45B8-8941-D2D1C2D188B9",
+   "id": "39B77F83-933C-416C-B100-6D3D03FBCE3B",
    "transform": {
     "x": -150.83,
     "y": 75.42,
@@ -916,12 +949,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_61.png",
    "zIndex": 51
   },
   {
-   "id": "D0FD667B-F17E-431E-9934-AE95FF69F6DC",
+   "id": "984B5F2E-5030-4AF0-AAA2-7EB2956B334E",
    "transform": {
     "x": 154.19,
     "y": 149.16,
@@ -932,12 +966,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_61.png",
    "zIndex": 52
   },
   {
-   "id": "CBCBA66D-1597-4BD9-9F4A-BB0CC438BCE8",
+   "id": "893556E8-9851-421C-9C2B-C99E9430628A",
    "transform": {
     "x": 130.72,
     "y": 28.49,
@@ -948,12 +983,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_43.png",
    "zIndex": 53
   },
   {
-   "id": "75E96605-6BDB-463F-BA57-B4380B2EBC1F",
+   "id": "228360F1-8CCF-41EF-9E71-55CE293EED08",
    "transform": {
     "x": 38.55,
     "y": 87.15,
@@ -964,12 +1000,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/Buttons/button_08.png",
    "zIndex": 54
   },
   {
-   "id": "CC04AF18-C794-408B-989E-7C0E5562F398",
+   "id": "1115B029-F5DB-4AC6-8E02-59DF3E965F8D",
    "transform": {
     "x": -80.44,
     "y": 112.29,
@@ -980,12 +1017,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 55
   },
   {
-   "id": "048D9C02-DD82-435E-8E1C-B3ED64824E96",
+   "id": "B83C1499-CE59-4DBA-B9EE-B73BF7557B96",
    "transform": {
     "x": -152.51,
     "y": 189.38,
@@ -996,12 +1034,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 56
   },
   {
-   "id": "F2BC9067-6F26-42B6-AF14-A8F911093603",
+   "id": "DB22961B-7370-4BE5-87CD-6B40F0291F71",
    "transform": {
     "x": 181.0,
     "y": -45.25,
@@ -1012,12 +1051,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_62.png",
    "zIndex": 57
   },
   {
-   "id": "5D415E66-E82F-4287-946F-05673D937BDE",
+   "id": "57664555-E63D-4BA8-BF4C-C3D18D242EEB",
    "transform": {
     "x": 179.32,
     "y": -196.08,
@@ -1028,12 +1068,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 58
   },
   {
-   "id": "1C1DA5BB-F91D-4756-B6AF-7DCC9516CAE6",
+   "id": "9A052D4D-4283-4C10-9EA5-2FEF1FDE3A4A",
    "transform": {
     "x": 479.31,
     "y": -101.56,
@@ -1044,12 +1085,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_36.png",
    "zIndex": 59
   },
   {
-   "id": "AFB92C9E-E18B-4927-9BC7-49129A2F1C6F",
+   "id": "C921A73C-7138-4972-BEE5-55B3BF28E30D",
    "transform": {
     "x": 449.15,
     "y": 135.75,
@@ -1060,12 +1102,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/notepad_f.png",
    "zIndex": 60
   },
   {
-   "id": "1F7E3948-AE11-4269-AAFB-C00A3997FCFE",
+   "id": "0768EE48-AC01-45F9-9918-E7E3539868B7",
    "transform": {
     "x": -8.38,
     "y": -210.16,
@@ -1076,12 +1119,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/Buttons/button_06.png",
    "zIndex": 61
   },
   {
-   "id": "0E30225A-DFEF-4014-A387-17BE594518C3",
+   "id": "67CC63D4-5003-4718-9720-5891B306531C",
    "transform": {
     "x": 133.56,
     "y": 35.85,
@@ -1092,12 +1136,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/white_card_3.png",
    "zIndex": 62
   },
   {
-   "id": "BA206F8C-7563-4734-8D81-6EDF852CABAF",
+   "id": "2718CFD2-F7ED-44C9-919F-B3680F3F47D2",
    "transform": {
     "x": 257.42,
     "y": 45.92,
@@ -1108,12 +1153,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/PinkCozy/pinkcozy_08.png",
    "zIndex": 63
   },
   {
-   "id": "BEBA0A9D-E4D3-4812-9E05-C436A47C3142",
+   "id": "49704A48-689D-4460-96FB-8B29DB5FF2AD",
    "transform": {
     "x": 456.52,
     "y": 127.71,
@@ -1124,7 +1170,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "BEBA0A9D-E4D3-4812-9E05-C436A47C3142",
+   "slotId": "49704A48-689D-4460-96FB-8B29DB5FF2AD",
    "slotAspectW": 1.0,
    "slotAspectH": 1.3548,
    "slotShape": "rectangle",
@@ -1132,7 +1178,7 @@
    "zIndex": 64
   },
   {
-   "id": "84090D85-43EC-4BEA-AA3D-26E7708B601B",
+   "id": "4C1890F6-9F67-49C3-AD55-6400E6CB78CA",
    "transform": {
     "x": 134.07,
     "y": 28.49,
@@ -1143,7 +1189,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "84090D85-43EC-4BEA-AA3D-26E7708B601B",
+   "slotId": "4C1890F6-9F67-49C3-AD55-6400E6CB78CA",
    "slotAspectW": 1.0,
    "slotAspectH": 1.0625,
    "slotShape": "rectangle",
@@ -1151,7 +1197,7 @@
    "zIndex": 65
   },
   {
-   "id": "4E760B43-57C7-49C3-BA62-C6F28E9F9C42",
+   "id": "C0C457AA-F002-4490-9D86-3C0B3C242392",
    "transform": {
     "x": -13.41,
     "y": 5.03,
@@ -1162,12 +1208,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/polaroid_clean.png",
    "zIndex": 66
   },
   {
-   "id": "6752FF5F-7138-45D8-B048-72B58328656C",
+   "id": "5D145C6C-8369-4C0D-B82C-66C75019206C",
    "transform": {
     "x": -13.72,
     "y": -3.87,
@@ -1178,7 +1225,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "6752FF5F-7138-45D8-B048-72B58328656C",
+   "slotId": "5D145C6C-8369-4C0D-B82C-66C75019206C",
    "slotAspectW": 1.0,
    "slotAspectH": 1.0268,
    "slotShape": "rectangle",
@@ -1186,7 +1233,7 @@
    "zIndex": 67
   },
   {
-   "id": "B1DD9E3C-2F1C-4205-8680-D8FCD9751224",
+   "id": "57495796-2B60-47AC-B891-93BC5A9F5366",
    "transform": {
     "x": -11.55,
     "y": 58.19,
@@ -1207,7 +1254,7 @@
    "zIndex": 68
   },
   {
-   "id": "F475A2E8-73FD-4613-BF03-3095AD552339",
+   "id": "685E078C-52E8-444F-B34B-9B83C7805BB5",
    "transform": {
     "x": 78.77,
     "y": -30.17,
@@ -1218,12 +1265,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_36.png",
    "zIndex": 69
   },
   {
-   "id": "3E441EC3-4C99-44CB-B419-ECD79DCE5F29",
+   "id": "69DC4313-5072-4962-B0AC-BA739D56B29B",
    "transform": {
     "x": 189.38,
     "y": -25.14,
@@ -1234,12 +1282,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_36.png",
    "zIndex": 70
   },
   {
-   "id": "D105F114-7E38-4A33-AEEC-8543382A4B49",
+   "id": "91F5DCC6-6653-4944-BF8F-ED53721B62AC",
    "transform": {
     "x": 449.15,
     "y": 49.27,
@@ -1250,12 +1299,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/Buttons/button_07.png",
    "zIndex": 71
   },
   {
-   "id": "820B1A01-9A55-4C82-8B78-E36616F06FC7",
+   "id": "E6ED8CA1-F992-4B9C-B845-3F952CCCD914",
    "transform": {
     "x": 527.92,
     "y": 68.71,
@@ -1266,12 +1316,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 72
   },
   {
-   "id": "D5E98382-3235-488C-86F1-5FF54F96523B",
+   "id": "C5F5F856-1976-448C-AE52-E2172AB46032",
    "transform": {
     "x": 532.27,
     "y": 100.56,
@@ -1282,12 +1333,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 73
   },
   {
-   "id": "3CC7104A-FE2B-4944-875D-38A8CB104D4C",
+   "id": "F03CF2BB-06E6-440C-9BE2-2B127E1A177C",
    "transform": {
     "x": 525.57,
     "y": 129.05,
@@ -1298,12 +1350,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 74
   },
   {
-   "id": "0A98E9E2-7D95-40E9-B6CB-59D51C411F15",
+   "id": "B1422D4D-46A6-4A58-915F-F6617F28C323",
    "transform": {
     "x": 388.81,
     "y": -199.44,
@@ -1314,12 +1367,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 75
   },
   {
-   "id": "4B2A722E-2E94-4063-B3A4-6B255DE5F90B",
+   "id": "36C81AE2-5068-41DC-B005-20CE8D031D17",
    "transform": {
     "x": 217.87,
     "y": -5.03,
@@ -1330,12 +1384,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/star_silver_1.png",
    "zIndex": 76
   },
   {
-   "id": "125BD5C5-33A0-4D59-852D-B40D3BB4EB68",
+   "id": "3DABFEA5-EE40-4F2E-B764-A94352979661",
    "transform": {
     "x": 512.83,
     "y": -165.92,
@@ -1346,12 +1401,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 77
   },
   {
-   "id": "733574AF-0C8A-49BA-A90B-A01A147554B0",
+   "id": "1C79D969-39AD-4F31-AEC9-DA0B2CF3F03A",
    "transform": {
     "x": 231.28,
     "y": 189.38,
@@ -1362,12 +1418,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 78
   },
   {
-   "id": "93F3E1A1-A9AB-4A69-8687-DB40BFDAF950",
+   "id": "0DDE522E-4331-4A72-AC07-5845B519AA45",
    "transform": {
     "x": 368.7,
     "y": -68.71,
@@ -1378,12 +1435,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 79
   },
   {
-   "id": "0623A9E8-1A4F-4736-9FFF-953FE4A3F2AF",
+   "id": "A8878D98-6170-4B47-8F38-A8385A233ABE",
    "transform": {
     "x": 181.0,
     "y": 186.03,
@@ -1394,12 +1452,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/white_card_4.png",
    "zIndex": 80
   },
   {
-   "id": "0EC659DE-E96C-4F59-B27A-88300DF5CF62",
+   "id": "697420D3-29D7-447E-B184-6728DC38F6F8",
    "transform": {
     "x": 181.0,
     "y": 186.03,
@@ -1410,7 +1469,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "0EC659DE-E96C-4F59-B27A-88300DF5CF62",
+   "slotId": "697420D3-29D7-447E-B184-6728DC38F6F8",
    "slotAspectW": 1.0,
    "slotAspectH": 1.0909,
    "slotShape": "rectangle",
@@ -1418,7 +1477,7 @@
    "zIndex": 81
   },
   {
-   "id": "0203FB02-5DEF-477A-8505-8E91F9359917",
+   "id": "A6691366-3967-403E-98AF-82E3024F1F78",
    "transform": {
     "x": 137.43,
     "y": 131.73,
@@ -1429,12 +1488,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_36.png",
    "zIndex": 82
   },
   {
-   "id": "A6B4483C-E64E-4E79-9A72-3805FCCA4290",
+   "id": "EE189557-5181-4E46-B2B6-0DA810CF95D4",
    "transform": {
     "x": 224.57,
     "y": 134.07,
@@ -1445,12 +1505,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_36.png",
    "zIndex": 83
   },
   {
-   "id": "26C65FE7-78B7-407F-8BDE-1FA6B9726B9E",
+   "id": "A87AC47F-B334-4918-BB7A-9CB19508A008",
    "transform": {
     "x": -16.76,
     "y": 149.16,
@@ -1461,12 +1522,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/cam.png",
    "zIndex": 84
   },
   {
-   "id": "8AED94AC-D169-4567-93F6-005CCC44FD1D",
+   "id": "45968D96-AC45-4B76-A256-A4D19A5262BA",
    "transform": {
     "x": -50.73,
     "y": 154.91,
@@ -1477,7 +1539,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "8AED94AC-D169-4567-93F6-005CCC44FD1D",
+   "slotId": "45968D96-AC45-4B76-A256-A4D19A5262BA",
    "slotAspectW": 1.2599,
    "slotAspectH": 1.0,
    "slotShape": "rectangle",
@@ -1485,7 +1547,7 @@
    "zIndex": 85
   },
   {
-   "id": "EAAEB1D6-2301-404A-885D-4C76E82976F2",
+   "id": "DC901F15-CD7F-4935-92C4-107594604BF0",
    "transform": {
     "x": -112.29,
     "y": 87.15,
@@ -1496,12 +1558,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/JapaneseKonbini/japanesekonbini_10.png",
    "zIndex": 86
   },
   {
-   "id": "87E17702-91E5-4B46-BDCE-BECEBBB07657",
+   "id": "863B9FD9-30AE-4B0F-A8BD-2C2615A42B6D",
    "transform": {
     "x": 53.63,
     "y": 200.11,
@@ -1512,12 +1575,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/Buttons/button_03.png",
    "zIndex": 87
   },
   {
-   "id": "86A1B91C-9479-4186-85EC-1B469B0C2E7C",
+   "id": "ABD8A1D9-90F5-4AF7-BFD3-1B7D1E1D0F46",
    "transform": {
     "x": 181.0,
     "y": 209.49,
@@ -1528,12 +1592,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/KoreanSweets/koreansweets_01.png",
    "zIndex": 88
   },
   {
-   "id": "16D4C4C2-7409-4BEC-B7A1-971AF9FF2559",
+   "id": "C5B2C025-FEFE-454D-8DE6-8180E6DB5643",
    "transform": {
     "x": -492.72,
     "y": 108.94,
@@ -1544,12 +1609,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/receipt_f.png",
    "zIndex": 89
   },
   {
-   "id": "B725943F-EB4E-4DE6-8100-692736680F5F",
+   "id": "B8DB2687-C16A-4180-A206-04697ACA2385",
    "transform": {
     "x": -492.05,
     "y": -2.35,
@@ -1560,12 +1626,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/OfficeSupplies/office_15.png",
    "zIndex": 90
   },
   {
-   "id": "74D6CCCA-7F18-4207-92D3-80C86ED485A0",
+   "id": "CC03C83C-331C-4A4A-B873-C0C630439BD3",
    "transform": {
     "x": -511.16,
     "y": 209.49,
@@ -1576,12 +1643,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/JapaneseKonbini/japanesekonbini_08.png",
    "zIndex": 91
   },
   {
-   "id": "490C299E-8C10-4FCF-80A7-D100BCC5EC51",
+   "id": "115CE40B-AE69-4EDD-990C-6A43F3268549",
    "transform": {
     "x": 301.67,
     "y": 159.88,
@@ -1602,7 +1670,7 @@
    "zIndex": 92
   },
   {
-   "id": "C41BDF5E-AEC6-433F-81A6-A8CDBF7C71EC",
+   "id": "DAF1406C-3FE8-4D45-8FEB-14DFB13F5F50",
    "transform": {
     "x": -241.33,
     "y": -51.95,
@@ -1613,12 +1681,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/KoreanSweets/koreansweets_08.png",
    "zIndex": 93
   },
   {
-   "id": "274DEF44-9828-4A04-B7DF-E69B8F07C38C",
+   "id": "62BCD21C-A0FD-40B5-92B7-344862093B66",
    "transform": {
     "x": -479.31,
     "y": -18.44,
@@ -1629,12 +1698,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/tama.png",
    "zIndex": 94
   },
   {
-   "id": "CB4959EE-7E3F-4BCC-B8AD-B26D543439E4",
+   "id": "61FE3D75-4976-4794-9CF3-67F21AB68F82",
    "transform": {
     "x": -181.0,
     "y": 102.23,
@@ -1645,12 +1715,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/CreamSodaKit/flip.png",
    "zIndex": 95
   },
   {
-   "id": "043D2F74-9CA5-46B2-BD58-87F1D59D77F1",
+   "id": "3B0C50A6-A69B-492C-B536-878EFD04A375",
    "transform": {
     "x": -479.6,
     "y": -19.46,
@@ -1661,7 +1732,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "043D2F74-9CA5-46B2-BD58-87F1D59D77F1",
+   "slotId": "3B0C50A6-A69B-492C-B536-878EFD04A375",
    "slotAspectW": 1.1443,
    "slotAspectH": 1.0,
    "slotShape": "rectangle",
@@ -1669,7 +1740,7 @@
    "zIndex": 96
   },
   {
-   "id": "66A5881E-2E1B-4E59-8A3C-8FE780ABE94C",
+   "id": "1F311C73-3880-4C0A-9B30-1A28845528AD",
    "transform": {
     "x": -176.38,
     "y": 47.62,
@@ -1680,7 +1751,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": true,
-   "slotId": "66A5881E-2E1B-4E59-8A3C-8FE780ABE94C",
+   "slotId": "1F311C73-3880-4C0A-9B30-1A28845528AD",
    "slotAspectW": 1.0,
    "slotAspectH": 1.2696,
    "slotShape": "rectangle",
@@ -1688,7 +1759,7 @@
    "zIndex": 97
   },
   {
-   "id": "DA9C3B31-FD09-4CD1-BE0D-30BDBC488BE3",
+   "id": "4F6C36E3-50F3-4854-B721-F24FA80666C7",
    "transform": {
     "x": -442.44,
     "y": 29.16,
@@ -1699,12 +1770,13 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/ScrapbookKit/scrapbook_45.png",
    "zIndex": 98
   },
   {
-   "id": "4081D786-2704-41B8-8FCC-D59A24DE0117",
+   "id": "49D8ACDB-C32F-437D-A03D-4EB8A079A8AF",
    "transform": {
     "x": -373.73,
     "y": 200.11,
@@ -1715,6 +1787,7 @@
    "isFlippedH": false,
    "isFlippedV": false,
    "isSlot": false,
+   "isLocked": true,
    "isTextLayer": false,
    "bundledImageFileName": "stickers/KoreanSweets/koreansweets_15.png",
    "zIndex": 99
