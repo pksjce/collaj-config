@@ -1,7 +1,15 @@
 {
-  "version": 27,
+  "version": 28,
   "baseURL": "https://raw.githubusercontent.com/pksjce/collaj-config/main/templates/",
   "templates": [
+    {
+      "id": "creamsoda-diary",
+      "name": "Cream Soda Diary",
+      "recipeFile": "creamsoda-diary/recipe.json",
+      "thumbnailFile": "creamsoda-diary/thumbnail.png",
+      "pageCount": 3,
+      "category": "Y2K"
+    },
     {
       "id": "weekend-roundup",
       "name": "Weekend Roundup",
